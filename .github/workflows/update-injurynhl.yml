@@ -1,0 +1,62 @@
+# Runs the NHL injury tracker every 3 hours, 30 minutes before each admin update:
+# 5:30pm, 8:30pm, 11:30pm, 2:30am, 5:30am, 8:30am, 11:30am, 2:30pm Eastern.
+# GitHub schedules use UTC and ignore daylight saving, so this wakes up at the
+# right UTC hours for both summer and winter time, and the first step checks
+# the Eastern time and skips the runs that aren't on the schedule.
+
+name: Update NHL injuries
+
+on:
+  schedule:
+    - cron: "30 0,1,3,4,6,7,9,10,12,13,15,16,18,19,21,22 * * *"
+  workflow_dispatch:   # "Run workflow" button: always runs, any time
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-nhl-injuries
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check the Eastern time schedule
+        id: gate
+        run: |
+          HOUR=$(TZ=America/New_York date +%-H)
+          echo "Eastern time now: $(TZ=America/New_York date '+%-I:%M %p %Z')"
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ $((HOUR % 3)) -eq 2 ]; then
+            echo "go=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Not a scheduled update time. Skipping."
+            echo "go=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Get the repo files
+        if: steps.gate.outputs.go == 'true'
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        if: steps.gate.outputs.go == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run the injury agent
+        if: steps.gate.outputs.go == 'true'
+        run: python update_injuries.py
+
+      - name: Save updated data
+        if: steps.gate.outputs.go == 'true'
+        run: |
+          git config user.name "nhl-injury-agent"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No data changes to save."
+          else
+            git commit -m "NHL injury update $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
