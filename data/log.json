@@ -1,5 +1,61 @@
 [
   {
+    "ts": "2026-09-26T21:24:12+00:00",
+    "player": "Alexander Nikishin",
+    "team": "Carolina",
+    "from": "Expected to be out until at least Sep 26",
+    "to": "Expected to be out until at least Sep 29"
+  },
+  {
+    "ts": "2026-09-26T21:24:12+00:00",
+    "player": "Corey Perry",
+    "team": "Los Angeles",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Sep 30"
+  },
+  {
+    "ts": "2026-09-26T21:24:12+00:00",
+    "player": "Brock Faber",
+    "team": "Minnesota",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-09-26T21:24:12+00:00",
+    "player": "Ivan Demidov",
+    "team": "Montreal",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Sep 29"
+  },
+  {
+    "ts": "2026-09-26T21:24:12+00:00",
+    "player": "Denver Barkey",
+    "team": "Philadelphia",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Sep 30"
+  },
+  {
+    "ts": "2026-09-26T21:24:12+00:00",
+    "player": "Ryan Graves",
+    "team": "Pittsburgh",
+    "from": "Available",
+    "to": "Expected to be out until at least Sep 30"
+  },
+  {
+    "ts": "2026-09-26T21:24:12+00:00",
+    "player": "Adam Gaudette",
+    "team": "San Jose",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Oct 1"
+  },
+  {
+    "ts": "2026-09-26T21:24:12+00:00",
+    "player": "Mats Zuccarello",
+    "team": "Los Angeles",
+    "from": "Day-to-Day",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-09-26T00:01:59+00:00",
     "player": "Mattias Samuelsson",
     "team": "Buffalo",
