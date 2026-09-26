@@ -1,1 +1,93 @@
-[]
+[
+  {
+    "ts": "2026-09-26T00:01:59+00:00",
+    "player": "Mattias Samuelsson",
+    "team": "Buffalo",
+    "from": "Expected to be out until at least Oct 8",
+    "to": "Expected to be out until at least Oct 1"
+  },
+  {
+    "ts": "2026-09-26T00:01:59+00:00",
+    "player": "Jiri Kulich",
+    "team": "Buffalo",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Oct 1"
+  },
+  {
+    "ts": "2026-09-26T00:01:59+00:00",
+    "player": "Dante Fabbro",
+    "team": "Columbus",
+    "from": "Expected to be out until at least Oct 1",
+    "to": "IR. Expected to be out until at least Oct 9"
+  },
+  {
+    "ts": "2026-09-26T00:01:59+00:00",
+    "player": "Jacob Bernard-Docker",
+    "team": "Detroit",
+    "from": "Available",
+    "to": "Expected to be out until at least Oct 2"
+  },
+  {
+    "ts": "2026-09-26T00:01:59+00:00",
+    "player": "Jason Dickinson",
+    "team": "Edmonton",
+    "from": "Available",
+    "to": "Expected to be out until at least Oct 7"
+  },
+  {
+    "ts": "2026-09-26T00:01:59+00:00",
+    "player": "Vincent Iorio",
+    "team": "N.Y. Rangers",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Sep 29"
+  },
+  {
+    "ts": "2026-09-26T00:01:59+00:00",
+    "player": "Justin Brazeau",
+    "team": "Pittsburgh",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Sep 30"
+  },
+  {
+    "ts": "2026-09-26T00:01:59+00:00",
+    "player": "Tyler Tucker",
+    "team": "St. Louis",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Oct 6"
+  },
+  {
+    "ts": "2026-09-26T00:01:59+00:00",
+    "player": "Michael Carcone",
+    "team": "Utah",
+    "from": "Expected to be out until at least Oct 1",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-09-26T00:01:59+00:00",
+    "player": "Filip Chytil",
+    "team": "Vancouver",
+    "from": "Day-to-Day",
+    "to": "IR. Expected to be out until at least Oct 8"
+  },
+  {
+    "ts": "2026-09-26T00:01:59+00:00",
+    "player": "Thatcher Demko",
+    "team": "Vancouver",
+    "from": "IR. Expected to be out until at least Sep 29",
+    "to": "IR. Expected to be out until at least Oct 3"
+  },
+  {
+    "ts": "2026-09-26T00:01:59+00:00",
+    "player": "Cale Makar",
+    "team": "Colorado",
+    "from": "Expected to be out until at least Sep 26",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-26T00:01:59+00:00",
+    "player": "Jordan Spence",
+    "team": "Ottawa",
+    "from": "Expected to be out until at least Sep 26",
+    "to": "Cleared"
+  }
+]
