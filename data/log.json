@@ -1,5 +1,82 @@
 [
   {
+    "ts": "2026-09-27T12:20:42+00:00",
+    "player": "Pavel Mintyukov",
+    "team": "Anaheim",
+    "from": "Available",
+    "to": "Expected to be out until at least Oct 2"
+  },
+  {
+    "ts": "2026-09-27T12:20:42+00:00",
+    "player": "Ukko-Pekka Luukkonen",
+    "team": "Buffalo",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-09-27T12:20:42+00:00",
+    "player": "Jason Dickinson",
+    "team": "Edmonton",
+    "from": "Expected to be out until at least Oct 7",
+    "to": "Expected to be out until at least Oct 17"
+  },
+  {
+    "ts": "2026-09-27T12:20:42+00:00",
+    "player": "Joel Edmundson",
+    "team": "Los Angeles",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-09-27T12:20:42+00:00",
+    "player": "Warren Foegele",
+    "team": "Ottawa",
+    "from": "Expected to be out until at least Sep 26",
+    "to": "Expected to be out until at least Oct 3"
+  },
+  {
+    "ts": "2026-09-27T12:20:42+00:00",
+    "player": "Kurtis MacDermid",
+    "team": "Ottawa",
+    "from": "Expected to be out until at least Sep 26",
+    "to": "Expected to be out until at least Oct 3"
+  },
+  {
+    "ts": "2026-09-27T12:20:42+00:00",
+    "player": "Shane Pinto",
+    "team": "Ottawa",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Oct 3"
+  },
+  {
+    "ts": "2026-09-27T12:20:42+00:00",
+    "player": "Jake Sanderson",
+    "team": "Ottawa",
+    "from": "Expected to be out until at least Sep 26",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-09-27T12:20:42+00:00",
+    "player": "Bryan Rust",
+    "team": "Pittsburgh",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-09-27T12:20:42+00:00",
+    "player": "Logan Mailloux",
+    "team": "St. Louis",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-09-27T12:20:42+00:00",
+    "player": "Michael Carcone",
+    "team": "Utah",
+    "from": "Day-to-Day",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-09-26T21:24:12+00:00",
     "player": "Alexander Nikishin",
     "team": "Carolina",
