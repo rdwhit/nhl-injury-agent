@@ -1,5 +1,54 @@
 [
   {
+    "ts": "2026-09-28T14:20:49+00:00",
+    "player": "Logan O'Connor",
+    "team": "Colorado",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-09-28T14:20:49+00:00",
+    "player": "Zachary L'Heureux",
+    "team": "Colorado",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-09-28T14:20:49+00:00",
+    "player": "Dante Fabbro",
+    "team": "Columbus",
+    "from": "IR. Expected to be out until at least Oct 9",
+    "to": "IR. Expected to be out until at least Nov 3"
+  },
+  {
+    "ts": "2026-09-28T14:20:49+00:00",
+    "player": "Simon Edvinsson",
+    "team": "Detroit",
+    "from": "Available",
+    "to": "Expected to be out until at least Oct 2"
+  },
+  {
+    "ts": "2026-09-28T14:20:49+00:00",
+    "player": "Mathew Barzal",
+    "team": "N.Y. Islanders",
+    "from": "Day-to-Day",
+    "to": "IR. Expected to be out until at least Oct 3"
+  },
+  {
+    "ts": "2026-09-28T14:20:49+00:00",
+    "player": "Jake Bean",
+    "team": "Calgary",
+    "from": "IR. Expected to be out until at least Sep 28",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-28T14:20:49+00:00",
+    "player": "Derek Forbort",
+    "team": "Vancouver",
+    "from": "IR. Expected to be out until at least Sep 28",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-09-27T21:31:24+00:00",
     "player": "A.J. Greer",
     "team": "Anaheim",
