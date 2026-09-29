@@ -1,5 +1,33 @@
 [
   {
+    "ts": "2026-09-29T10:00:52+00:00",
+    "player": "Vincent Iorio",
+    "team": "N.Y. Rangers",
+    "from": "Day-to-Day",
+    "to": "IR. Expected to be out until at least Sep 29"
+  },
+  {
+    "ts": "2026-09-29T10:00:52+00:00",
+    "player": "Adam Sykora",
+    "team": "N.Y. Rangers",
+    "from": "Expected to be out until at least Jan 25",
+    "to": "IR. Expected to be out until at least Jan 25"
+  },
+  {
+    "ts": "2026-09-29T10:00:52+00:00",
+    "player": "Max Domi",
+    "team": "Toronto",
+    "from": "Expected to be out until at least Nov 7",
+    "to": "IR. Expected to be out until at least Nov 21"
+  },
+  {
+    "ts": "2026-09-29T10:00:52+00:00",
+    "player": "Dakota Joshua",
+    "team": "Toronto",
+    "from": "Expected to be out until at least Oct 17",
+    "to": "IR. Expected to be out until at least Oct 17"
+  },
+  {
     "ts": "2026-09-29T02:14:56+00:00",
     "player": "Troy Terry",
     "team": "Anaheim",
