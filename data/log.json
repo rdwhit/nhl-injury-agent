@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-09-30T12:51:24+00:00",
+    "player": "Andrew Mangiapane",
+    "team": "Chicago",
+    "from": "Available",
+    "to": "Expected to be out until at least Oct 6"
+  },
+  {
+    "ts": "2026-09-30T12:51:24+00:00",
+    "player": "Carter Bear",
+    "team": "Detroit",
+    "from": "Cleared",
+    "to": "IR. Expected to be out until at least Oct 6"
+  },
+  {
     "ts": "2026-09-30T05:46:58+00:00",
     "player": "Ivan Demidov",
     "team": "Montreal",
