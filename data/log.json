@@ -1,5 +1,47 @@
 [
   {
+    "ts": "2026-09-30T05:46:58+00:00",
+    "player": "Ivan Demidov",
+    "team": "Montreal",
+    "from": "Day-to-Day",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-30T05:46:58+00:00",
+    "player": "Andrei Kuzmenko",
+    "team": "Pittsburgh",
+    "from": "IR. Expected to be out until at least Oct 3",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-30T05:46:58+00:00",
+    "player": "Nick Paul",
+    "team": "Toronto",
+    "from": "Day-to-Day",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-30T05:46:58+00:00",
+    "player": "Simon Edvinsson",
+    "team": "Detroit",
+    "from": "Expected to be out until at least Oct 2",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-30T05:46:58+00:00",
+    "player": "James Stefan",
+    "team": "Edmonton",
+    "from": "IR. Expected to be out until at least Oct 10",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-30T05:46:58+00:00",
+    "player": "Lukas Cormier",
+    "team": "Vegas",
+    "from": "IR. Expected to be out until at least Oct 6",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-09-29T22:27:41+00:00",
     "player": "Charlie McAvoy",
     "team": "Boston",
