@@ -1,5 +1,341 @@
 [
   {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Drew Helleson",
+    "team": "Anaheim",
+    "from": "Day-to-Day",
+    "to": "IR. Expected to be out until at least Oct 7"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Olen Zellweger",
+    "team": "Buffalo",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Oct 3"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Ryan Ellis",
+    "team": "Chicago",
+    "from": "Cleared",
+    "to": "IR. Expected to be out until at least Jul 1"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Ivan Provorov",
+    "team": "Columbus",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Matt Duchene",
+    "team": "Dallas",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Oct 3"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Andreas Englund",
+    "team": "Detroit",
+    "from": "Available",
+    "to": "IR. Expected to be out until at least Oct 2"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "James Stefan",
+    "team": "Edmonton",
+    "from": "Cleared",
+    "to": "IR. Expected to be out until at least Oct 10"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "MacKenzie Entwistle",
+    "team": "Florida",
+    "from": "Cleared",
+    "to": "IR. Expected to be out until at least Oct 10"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Jakub Dvorak",
+    "team": "Los Angeles",
+    "from": "Cleared",
+    "to": "IR. Expected to be out until at least Oct 6"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Oliver Kapanen",
+    "team": "Montreal",
+    "from": "Expected to be out until at least Oct 3",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Bryce Pickford",
+    "team": "Montreal",
+    "from": "Cleared",
+    "to": "IR. Expected to be out until at least Oct 17"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Lucas Condotta",
+    "team": "Montreal",
+    "from": "Cleared",
+    "to": "IR. Expected to be out until at least Oct 10"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Connor Brown",
+    "team": "New Jersey",
+    "from": "Available",
+    "to": "Expected to be out until at least Oct 6"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Seamus Casey",
+    "team": "New Jersey",
+    "from": "Cleared",
+    "to": "IR. Expected to be out until at least Oct 6"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Mathew Barzal",
+    "team": "N.Y. Islanders",
+    "from": "IR. Expected to be out until at least Oct 3",
+    "to": "IR. Expected to be out until at least Oct 6"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Aidan Thompson",
+    "team": "N.Y. Rangers",
+    "from": "Cleared",
+    "to": "IR. Expected to be out until at least Oct 1"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Jake Sanderson",
+    "team": "Ottawa",
+    "from": "Cleared",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Andre Burakovsky",
+    "team": "Ottawa",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Oct 5"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Nikita Grebenkin",
+    "team": "Philadelphia",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Oct 3"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Helge Grans",
+    "team": "Philadelphia",
+    "from": "Cleared",
+    "to": "IR. Expected to be out until at least Oct 5"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Tristan Broz",
+    "team": "Pittsburgh",
+    "from": "Cleared",
+    "to": "IR. Expected to be out until at least Oct 3"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Andrei Kuzmenko",
+    "team": "Pittsburgh",
+    "from": "Cleared",
+    "to": "IR. Expected to be out until at least Oct 3"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Gabriel D'Aigle",
+    "team": "Pittsburgh",
+    "from": "Cleared",
+    "to": "IR. Expected to be out until at least Oct 29"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Cameron Lund",
+    "team": "San Jose",
+    "from": "Cleared",
+    "to": "IR. Expected to be out until at least Oct 19"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Patrick Giles",
+    "team": "San Jose",
+    "from": "Cleared",
+    "to": "IR. Expected to be out until at least Oct 3"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Quentin Musty",
+    "team": "San Jose",
+    "from": "Cleared",
+    "to": "IR. Expected to be out until at least Dec 1"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Kyle Keyser",
+    "team": "San Jose",
+    "from": "Cleared",
+    "to": "IR. Expected to be out until at least Dec 1"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Logan Couture",
+    "team": "San Jose",
+    "from": "Cleared",
+    "to": "IR. Expected to be out until at least Jul 1"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Jake O'Brien",
+    "team": "Seattle",
+    "from": "Cleared",
+    "to": "IR. Expected to be out until at least Oct 6"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Tyler Tucker",
+    "team": "St. Louis",
+    "from": "IR. Expected to be out until at least Oct 6",
+    "to": "IR. Expected to be out until at least Nov 12"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Adam Jecho",
+    "team": "St. Louis",
+    "from": "Cleared",
+    "to": "IR. Expected to be out until at least Nov 3"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "William Villeneuve",
+    "team": "Toronto",
+    "from": "Cleared",
+    "to": "IR. Expected to be out until at least Oct 31"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Cade Webber",
+    "team": "Toronto",
+    "from": "Cleared",
+    "to": "IR. Expected to be out until at least Oct 31"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Maveric Lamoureux",
+    "team": "Utah",
+    "from": "Cleared",
+    "to": "IR. Expected to be out until at least Feb 12"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Jack Thompson",
+    "team": "Vancouver",
+    "from": "Cleared",
+    "to": "IR. Expected to be out until at least Oct 11"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "MacKenzie MacEachern",
+    "team": "Vancouver",
+    "from": "Cleared",
+    "to": "IR. Expected to be out until at least Oct 10"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Raphael Lavoie",
+    "team": "Vegas",
+    "from": "Expected to be out until at least Oct 2",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Lukas Cormier",
+    "team": "Vegas",
+    "from": "Cleared",
+    "to": "IR. Expected to be out until at least Oct 6"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Kai Uchacz",
+    "team": "Vegas",
+    "from": "Cleared",
+    "to": "IR. Expected to be out until at least Oct 6"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Ben Hemmerling",
+    "team": "Vegas",
+    "from": "Available",
+    "to": "IR. Expected to be out until at least Oct 6"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Walker Duehr",
+    "team": "Winnipeg",
+    "from": "Cleared",
+    "to": "IR. Expected to be out until at least Oct 17"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Elias Salomonsson",
+    "team": "Winnipeg",
+    "from": "Cleared",
+    "to": "IR. Expected to be out until at least Oct 15"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Charlie McAvoy",
+    "team": "Boston",
+    "from": "Expected to be out until at least Oct 13",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Jake Oettinger",
+    "team": "Dallas",
+    "from": "Day-to-Day",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Ridly Greig",
+    "team": "Ottawa",
+    "from": "Expected to be out until at least Oct 6",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Alex Ovechkin",
+    "team": "Washington",
+    "from": "Day-to-Day",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Ukko-Pekka Luukkonen",
+    "team": "Buffalo",
+    "from": "Day-to-Day",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-09-30T20:10:41+00:00",
+    "player": "Joel Edmundson",
+    "team": "Los Angeles",
+    "from": "Day-to-Day",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-09-30T12:51:24+00:00",
     "player": "Andrew Mangiapane",
     "team": "Chicago",
