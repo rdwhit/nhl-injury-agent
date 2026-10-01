@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-10-01T10:20:21+00:00",
+    "player": "Mattias Samuelsson",
+    "team": "Buffalo",
+    "from": "IR. Expected to be out until at least Oct 6",
+    "to": "IR. Expected to be out until at least Oct 1"
+  },
+  {
+    "ts": "2026-10-01T10:20:21+00:00",
+    "player": "Corey Perry",
+    "team": "Los Angeles",
+    "from": "Day-to-Day",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-01T00:39:13+00:00",
     "player": "Matt Duchene",
     "team": "Dallas",
