@@ -1,5 +1,33 @@
 [
   {
+    "ts": "2026-10-01T00:39:13+00:00",
+    "player": "Matt Duchene",
+    "team": "Dallas",
+    "from": "Expected to be out until at least Oct 3",
+    "to": "IR. Expected to be out until at least Oct 3"
+  },
+  {
+    "ts": "2026-10-01T00:39:13+00:00",
+    "player": "Brad Marchand",
+    "team": "Florida",
+    "from": "IR. Expected to be out until at least Nov 2",
+    "to": "IR. Expected to be out until at least Oct 25"
+  },
+  {
+    "ts": "2026-10-01T00:39:13+00:00",
+    "player": "Dakota Joshua",
+    "team": "Toronto",
+    "from": "IR. Expected to be out until at least Oct 17",
+    "to": "IR. Expected to be out until at least Oct 24"
+  },
+  {
+    "ts": "2026-10-01T00:39:13+00:00",
+    "player": "Blake Lizotte",
+    "team": "Pittsburgh",
+    "from": "IR. Expected to be out until at least Sep 30",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-09-30T20:10:41+00:00",
     "player": "Drew Helleson",
     "team": "Anaheim",
