@@ -1,5 +1,82 @@
 [
   {
+    "ts": "2026-10-01T18:29:53+00:00",
+    "player": "Olen Zellweger",
+    "team": "Buffalo",
+    "from": "Expected to be out until at least Oct 3",
+    "to": "IR. Expected to be out until at least Oct 3"
+  },
+  {
+    "ts": "2026-10-01T18:29:53+00:00",
+    "player": "Isac Lundestrom",
+    "team": "Columbus",
+    "from": "IR. Expected to be out until at least Nov 10",
+    "to": "IR. Expected to be out until at least Dec 3"
+  },
+  {
+    "ts": "2026-10-01T18:29:53+00:00",
+    "player": "Ivan Provorov",
+    "team": "Columbus",
+    "from": "Day-to-Day",
+    "to": "IR. Expected to be out until at least Oct 9"
+  },
+  {
+    "ts": "2026-10-01T18:29:53+00:00",
+    "player": "Matt Duchene",
+    "team": "Dallas",
+    "from": "IR. Expected to be out until at least Oct 3",
+    "to": "IR. Expected to be out until at least Oct 25"
+  },
+  {
+    "ts": "2026-10-01T18:29:53+00:00",
+    "player": "Dylan Larkin",
+    "team": "Detroit",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Oct 6"
+  },
+  {
+    "ts": "2026-10-01T18:29:53+00:00",
+    "player": "Alec Regula",
+    "team": "Edmonton",
+    "from": "IR. Expected to be out until at least Oct 3",
+    "to": "IR. Expected to be out until at least Oct 24"
+  },
+  {
+    "ts": "2026-10-01T18:29:53+00:00",
+    "player": "Ryan Nugent-Hopkins",
+    "team": "Edmonton",
+    "from": "Expected to be out until at least Oct 13",
+    "to": "IR. Expected to be out until at least Oct 13"
+  },
+  {
+    "ts": "2026-10-01T18:29:53+00:00",
+    "player": "Aidan Thompson",
+    "team": "N.Y. Rangers",
+    "from": "IR. Expected to be out until at least Oct 1",
+    "to": "IR. Expected to be out until at least Oct 11"
+  },
+  {
+    "ts": "2026-10-01T18:29:53+00:00",
+    "player": "Joonas Korpisalo",
+    "team": "N.Y. Rangers",
+    "from": "Available",
+    "to": "IR. Expected to be out until at least Oct 9"
+  },
+  {
+    "ts": "2026-10-01T18:29:53+00:00",
+    "player": "Blake Lizotte",
+    "team": "Pittsburgh",
+    "from": "Cleared",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-01T18:29:53+00:00",
+    "player": "Mattias Samuelsson",
+    "team": "Buffalo",
+    "from": "IR. Expected to be out until at least Oct 1",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-01T10:20:21+00:00",
     "player": "Mattias Samuelsson",
     "team": "Buffalo",
