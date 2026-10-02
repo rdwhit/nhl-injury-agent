@@ -1,5 +1,47 @@
 [
   {
+    "ts": "2026-10-02T20:01:23+00:00",
+    "player": "Gustav Forsling",
+    "team": "Florida",
+    "from": "Expected to be out until at least Oct 4",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-02T20:01:23+00:00",
+    "player": "Seamus Casey",
+    "team": "New Jersey",
+    "from": "IR. Expected to be out until at least Oct 6",
+    "to": "IR. Expected to be out until at least Nov 21"
+  },
+  {
+    "ts": "2026-10-02T20:01:23+00:00",
+    "player": "Nikita Grebenkin",
+    "team": "Philadelphia",
+    "from": "Expected to be out until at least Oct 3",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-02T20:01:23+00:00",
+    "player": "Olen Zellweger",
+    "team": "Buffalo",
+    "from": "IR. Expected to be out until at least Oct 3",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-02T20:01:23+00:00",
+    "player": "Warren Foegele",
+    "team": "Ottawa",
+    "from": "IR. Expected to be out until at least Oct 3",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-02T20:01:23+00:00",
+    "player": "Andrei Kuzmenko",
+    "team": "Pittsburgh",
+    "from": "IR. Expected to be out until at least Oct 3",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-02T12:56:17+00:00",
     "player": "Aleksander Barkov",
     "team": "Florida",
