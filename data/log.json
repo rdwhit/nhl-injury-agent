@@ -1,5 +1,47 @@
 [
   {
+    "ts": "2026-10-02T05:56:42+00:00",
+    "player": "Matthew Savoie",
+    "team": "Edmonton",
+    "from": "IR. Expected to be out until at least Nov 27",
+    "to": "IR. Expected to be out until at least Nov 24"
+  },
+  {
+    "ts": "2026-10-02T05:56:42+00:00",
+    "player": "Gustav Forsling",
+    "team": "Florida",
+    "from": "Available",
+    "to": "Expected to be out until at least Oct 4"
+  },
+  {
+    "ts": "2026-10-02T05:56:42+00:00",
+    "player": "Alex Barre-Boulet",
+    "team": "San Jose",
+    "from": "Available",
+    "to": "IR. Expected to be out until at least Oct 5"
+  },
+  {
+    "ts": "2026-10-02T05:56:42+00:00",
+    "player": "Taylor Makar",
+    "team": "Colorado",
+    "from": "IR. Expected to be out until at least Oct 7",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-02T05:56:42+00:00",
+    "player": "Tristan Broz",
+    "team": "Pittsburgh",
+    "from": "IR. Expected to be out until at least Oct 3",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-02T05:56:42+00:00",
+    "player": "Gabriel D'Aigle",
+    "team": "Pittsburgh",
+    "from": "IR. Expected to be out until at least Oct 29",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-01T22:50:56+00:00",
     "player": "Alex Lyon",
     "team": "Buffalo",
