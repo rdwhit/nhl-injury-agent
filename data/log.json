@@ -1,5 +1,33 @@
 [
   {
+    "ts": "2026-10-03T23:57:12+00:00",
+    "player": "Chase Stillman",
+    "team": "Detroit",
+    "from": "Available",
+    "to": "IR. Expected to be out until at least Oct 4"
+  },
+  {
+    "ts": "2026-10-03T23:57:12+00:00",
+    "player": "Aleksander Barkov",
+    "team": "Florida",
+    "from": "IR. Expected to be out until at least Oct 4",
+    "to": "IR. Expected to be out until at least Oct 27"
+  },
+  {
+    "ts": "2026-10-03T23:57:12+00:00",
+    "player": "Justus Annunen",
+    "team": "Nashville",
+    "from": "Available",
+    "to": "Expected to be out until at least Oct 6"
+  },
+  {
+    "ts": "2026-10-03T23:57:12+00:00",
+    "player": "Elvis Merzlikins",
+    "team": "Toronto",
+    "from": "Cleared",
+    "to": "IR. Expected to be out until at least Mar 30"
+  },
+  {
     "ts": "2026-10-03T18:45:06+00:00",
     "player": "Jack Rathbone",
     "team": "Buffalo",
