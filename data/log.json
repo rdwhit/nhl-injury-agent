@@ -1,5 +1,152 @@
 [
   {
+    "ts": "2026-10-03T18:45:06+00:00",
+    "player": "Jack Rathbone",
+    "team": "Buffalo",
+    "from": "IR. Expected to be out until at least Oct 3",
+    "to": "IR. Expected to be out until at least Oct 24"
+  },
+  {
+    "ts": "2026-10-03T18:45:06+00:00",
+    "player": "Alex Lyon",
+    "team": "Buffalo",
+    "from": "IR. Expected to be out until at least Oct 3",
+    "to": "IR. Expected to be out until at least Oct 6"
+  },
+  {
+    "ts": "2026-10-03T18:45:06+00:00",
+    "player": "Bowen Byram",
+    "team": "Chicago",
+    "from": "Available",
+    "to": "Expected to be out until at least Oct 6"
+  },
+  {
+    "ts": "2026-10-03T18:45:06+00:00",
+    "player": "Zachary L'Heureux",
+    "team": "Colorado",
+    "from": "IR. Expected to be out until at least Oct 3",
+    "to": "IR. Expected to be out until at least Oct 7"
+  },
+  {
+    "ts": "2026-10-03T18:45:06+00:00",
+    "player": "Logan O'Connor",
+    "team": "Colorado",
+    "from": "IR. Expected to be out until at least Oct 3",
+    "to": "IR. Expected to be out until at least Oct 7"
+  },
+  {
+    "ts": "2026-10-03T18:45:06+00:00",
+    "player": "Mikael Pyyhtia",
+    "team": "Columbus",
+    "from": "IR. Expected to be out until at least Oct 3",
+    "to": "IR. Expected to be out until at least Oct 18"
+  },
+  {
+    "ts": "2026-10-03T18:45:06+00:00",
+    "player": "Marco Kasper",
+    "team": "Detroit",
+    "from": "Available",
+    "to": "Expected to be out until at least Oct 6"
+  },
+  {
+    "ts": "2026-10-03T18:45:06+00:00",
+    "player": "Aleksander Barkov",
+    "team": "Florida",
+    "from": "Day-to-Day",
+    "to": "IR. Expected to be out until at least Oct 4"
+  },
+  {
+    "ts": "2026-10-03T18:45:06+00:00",
+    "player": "Kevin Fiala",
+    "team": "Los Angeles",
+    "from": "IR. Expected to be out until at least Oct 3",
+    "to": "IR. Expected to be out until at least Oct 17"
+  },
+  {
+    "ts": "2026-10-03T18:45:06+00:00",
+    "player": "Oliver Kapanen",
+    "team": "Montreal",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Oct 6"
+  },
+  {
+    "ts": "2026-10-03T18:45:06+00:00",
+    "player": "Mathew Barzal",
+    "team": "N.Y. Islanders",
+    "from": "IR. Expected to be out until at least Oct 6",
+    "to": "IR. Expected to be out until at least Oct 10"
+  },
+  {
+    "ts": "2026-10-03T18:45:06+00:00",
+    "player": "Nikita Grebenkin",
+    "team": "Philadelphia",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Oct 5"
+  },
+  {
+    "ts": "2026-10-03T18:45:06+00:00",
+    "player": "Denver Barkey",
+    "team": "Philadelphia",
+    "from": "IR. Expected to be out until at least Oct 3",
+    "to": "IR. Expected to be out until at least Oct 13"
+  },
+  {
+    "ts": "2026-10-03T18:45:06+00:00",
+    "player": "Patrick Giles",
+    "team": "San Jose",
+    "from": "IR. Expected to be out until at least Oct 3",
+    "to": "IR. Expected to be out until at least Oct 8"
+  },
+  {
+    "ts": "2026-10-03T18:45:06+00:00",
+    "player": "Jacob Trouba",
+    "team": "San Jose",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-03T18:45:06+00:00",
+    "player": "Jacob Melanson",
+    "team": "Seattle",
+    "from": "Available",
+    "to": "IR. Expected to be out until at least Oct 17"
+  },
+  {
+    "ts": "2026-10-03T18:45:06+00:00",
+    "player": "Jake DeBrusk",
+    "team": "Vancouver",
+    "from": "Available",
+    "to": "Expected to be out until at least Oct 4"
+  },
+  {
+    "ts": "2026-10-03T18:45:06+00:00",
+    "player": "Jake Sanderson",
+    "team": "Ottawa",
+    "from": "Day-to-Day",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-03T18:45:06+00:00",
+    "player": "Benjamin Kindel",
+    "team": "Pittsburgh",
+    "from": "IR. Expected to be out until at least Oct 7",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-03T18:45:06+00:00",
+    "player": "Blake Lizotte",
+    "team": "Pittsburgh",
+    "from": "Day-to-Day",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-03T18:45:06+00:00",
+    "player": "Mackie Samoskevich",
+    "team": "Seattle",
+    "from": "IR. Expected to be out until at least Oct 3",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-03T09:19:20+00:00",
     "player": "Alexei Toropchenko",
     "team": "St. Louis",
