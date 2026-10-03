@@ -1,5 +1,33 @@
 [
   {
+    "ts": "2026-10-03T00:35:01+00:00",
+    "player": "Dylan Larkin",
+    "team": "Detroit",
+    "from": "Expected to be out until at least Oct 6",
+    "to": "IR. Expected to be out until at least Oct 6"
+  },
+  {
+    "ts": "2026-10-03T00:35:01+00:00",
+    "player": "Connor Hellebuyck",
+    "team": "Winnipeg",
+    "from": "Available",
+    "to": "Expected to be out until at least Oct 17"
+  },
+  {
+    "ts": "2026-10-03T00:35:01+00:00",
+    "player": "A.J. Greer",
+    "team": "Anaheim",
+    "from": "Day-to-Day",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-03T00:35:01+00:00",
+    "player": "Andreas Englund",
+    "team": "Detroit",
+    "from": "IR. Expected to be out until at least Oct 2",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-02T20:01:23+00:00",
     "player": "Gustav Forsling",
     "team": "Florida",
