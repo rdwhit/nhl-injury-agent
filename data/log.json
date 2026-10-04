@@ -1,5 +1,47 @@
 [
   {
+    "ts": "2026-10-04T06:06:52+00:00",
+    "player": "Alexandre Carrier",
+    "team": "Montreal",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-04T06:06:52+00:00",
+    "player": "Jake Sanderson",
+    "team": "Ottawa",
+    "from": "Cleared",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-04T06:06:52+00:00",
+    "player": "Rasmus Ristolainen",
+    "team": "Philadelphia",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-04T06:06:52+00:00",
+    "player": "Emil Martinsen Lilleberg",
+    "team": "Tampa Bay",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-04T06:06:52+00:00",
+    "player": "Matt Roy",
+    "team": "Washington",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-04T06:06:52+00:00",
+    "player": "Jacob Trouba",
+    "team": "San Jose",
+    "from": "Day-to-Day",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-03T23:57:12+00:00",
     "player": "Chase Stillman",
     "team": "Detroit",
