@@ -1,5 +1,33 @@
 [
   {
+    "ts": "2026-10-05T00:02:13+00:00",
+    "player": "Alexei Toropchenko",
+    "team": "St. Louis",
+    "from": "Expected to be out until at least Oct 10",
+    "to": "Expected to be out until at least Nov 14"
+  },
+  {
+    "ts": "2026-10-05T00:02:13+00:00",
+    "player": "Jake DeBrusk",
+    "team": "Vancouver",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Oct 8"
+  },
+  {
+    "ts": "2026-10-05T00:02:13+00:00",
+    "player": "Brad Marchand",
+    "team": "Florida",
+    "from": "IR. Expected to be out until at least Oct 25",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-05T00:02:13+00:00",
+    "player": "Patrick Giles",
+    "team": "San Jose",
+    "from": "IR. Expected to be out until at least Oct 8",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-04T18:41:57+00:00",
     "player": "Andrew Mangiapane",
     "team": "Chicago",
