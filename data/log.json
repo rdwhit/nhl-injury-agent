@@ -1,5 +1,33 @@
 [
   {
+    "ts": "2026-10-05T05:59:23+00:00",
+    "player": "Aaron Ekblad",
+    "team": "Florida",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-05T05:59:23+00:00",
+    "player": "Joseph Veleno",
+    "team": "N.Y. Rangers",
+    "from": "Available",
+    "to": "Expected to be out until at least Oct 6"
+  },
+  {
+    "ts": "2026-10-05T05:59:23+00:00",
+    "player": "Raphael Lavoie",
+    "team": "Vegas",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Oct 6"
+  },
+  {
+    "ts": "2026-10-05T05:59:23+00:00",
+    "player": "Gustav Forsling",
+    "team": "Florida",
+    "from": "Day-to-Day",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-05T00:02:13+00:00",
     "player": "Alexei Toropchenko",
     "team": "St. Louis",
