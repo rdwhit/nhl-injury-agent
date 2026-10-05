@@ -1,5 +1,54 @@
 [
   {
+    "ts": "2026-10-05T15:04:18+00:00",
+    "player": "Cameron Hughes",
+    "team": "Dallas",
+    "from": "IR. Expected to be out until at least Oct 5",
+    "to": "IR. Expected to be out until at least Oct 10"
+  },
+  {
+    "ts": "2026-10-05T15:04:18+00:00",
+    "player": "Marco Kasper",
+    "team": "Detroit",
+    "from": "Expected to be out until at least Oct 6",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-05T15:04:18+00:00",
+    "player": "Joseph Veleno",
+    "team": "N.Y. Rangers",
+    "from": "Expected to be out until at least Oct 6",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-05T15:04:18+00:00",
+    "player": "Alex Barre-Boulet",
+    "team": "San Jose",
+    "from": "IR. Expected to be out until at least Oct 5",
+    "to": "IR. Expected to be out until at least Oct 8"
+  },
+  {
+    "ts": "2026-10-05T15:04:18+00:00",
+    "player": "Jake DeBrusk",
+    "team": "Vancouver",
+    "from": "Expected to be out until at least Oct 8",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-05T15:04:18+00:00",
+    "player": "Raphael Lavoie",
+    "team": "Vegas",
+    "from": "Expected to be out until at least Oct 6",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-05T15:04:18+00:00",
+    "player": "Tristan Bertucci",
+    "team": "Dallas",
+    "from": "IR. Expected to be out until at least Oct 5",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-05T05:59:23+00:00",
     "player": "Aaron Ekblad",
     "team": "Florida",
