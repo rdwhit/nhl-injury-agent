@@ -1,5 +1,33 @@
 [
   {
+    "ts": "2026-10-06T06:37:54+00:00",
+    "player": "Linus Ullmark",
+    "team": "Ottawa",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-06T06:37:54+00:00",
+    "player": "Rasmus Ristolainen",
+    "team": "Philadelphia",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Oct 8"
+  },
+  {
+    "ts": "2026-10-06T06:37:54+00:00",
+    "player": "Macklin Celebrini",
+    "team": "San Jose",
+    "from": "Available",
+    "to": "Expected to be out until at least Oct 8"
+  },
+  {
+    "ts": "2026-10-06T06:37:54+00:00",
+    "player": "Alexei Toropchenko",
+    "team": "St. Louis",
+    "from": "Expected to be out until at least Nov 14",
+    "to": "IR. Expected to be out until at least Nov 14"
+  },
+  {
     "ts": "2026-10-05T22:05:50+00:00",
     "player": "Alex Lyon",
     "team": "Buffalo",
