@@ -1,5 +1,96 @@
 [
   {
+    "ts": "2026-10-06T16:05:04+00:00",
+    "player": "Marco Kasper",
+    "team": "Detroit",
+    "from": "Day-to-Day",
+    "to": "IR. Expected to be out until at least Oct 13"
+  },
+  {
+    "ts": "2026-10-06T16:05:04+00:00",
+    "player": "Mason Appleton",
+    "team": "Detroit",
+    "from": "Available",
+    "to": "Expected to be out until at least Oct 13"
+  },
+  {
+    "ts": "2026-10-06T16:05:04+00:00",
+    "player": "Carter Bear",
+    "team": "Detroit",
+    "from": "IR. Expected to be out until at least Oct 6",
+    "to": "IR. Expected to be out until at least Oct 10"
+  },
+  {
+    "ts": "2026-10-06T16:05:04+00:00",
+    "player": "Jakub Dvorak",
+    "team": "Los Angeles",
+    "from": "IR. Expected to be out until at least Oct 6",
+    "to": "IR. Expected to be out until at least Oct 31"
+  },
+  {
+    "ts": "2026-10-06T16:05:04+00:00",
+    "player": "Ivan Demidov",
+    "team": "Montreal",
+    "from": "Cleared",
+    "to": "Expected to be out until at least Oct 20"
+  },
+  {
+    "ts": "2026-10-06T16:05:04+00:00",
+    "player": "Justus Annunen",
+    "team": "Nashville",
+    "from": "Day-to-Day",
+    "to": "IR. Expected to be out until at least Oct 13"
+  },
+  {
+    "ts": "2026-10-06T16:05:04+00:00",
+    "player": "Rasmus Ristolainen",
+    "team": "Philadelphia",
+    "from": "Expected to be out until at least Oct 8",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-06T16:05:04+00:00",
+    "player": "Macklin Celebrini",
+    "team": "San Jose",
+    "from": "Expected to be out until at least Oct 8",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-06T16:05:04+00:00",
+    "player": "Jake O'Brien",
+    "team": "Seattle",
+    "from": "IR. Expected to be out until at least Oct 6",
+    "to": "IR. Expected to be out until at least Oct 24"
+  },
+  {
+    "ts": "2026-10-06T16:05:04+00:00",
+    "player": "Kai Uchacz",
+    "team": "Vegas",
+    "from": "IR. Expected to be out until at least Oct 6",
+    "to": "IR. Expected to be out until at least Oct 24"
+  },
+  {
+    "ts": "2026-10-06T16:05:04+00:00",
+    "player": "Lukas Cormier",
+    "team": "Vegas",
+    "from": "IR. Expected to be out until at least Oct 6",
+    "to": "IR. Expected to be out until at least Oct 22"
+  },
+  {
+    "ts": "2026-10-06T16:05:04+00:00",
+    "player": "Ben Hemmerling",
+    "team": "Vegas",
+    "from": "IR. Expected to be out until at least Oct 6",
+    "to": "IR. Expected to be out until at least Oct 12"
+  },
+  {
+    "ts": "2026-10-06T16:05:04+00:00",
+    "player": "Dylan Larkin",
+    "team": "Detroit",
+    "from": "IR. Expected to be out until at least Oct 6",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-06T06:37:54+00:00",
     "player": "Linus Ullmark",
     "team": "Ottawa",
