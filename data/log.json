@@ -1,5 +1,89 @@
 [
   {
+    "ts": "2026-10-07T06:14:45+00:00",
+    "player": "Josh Doan",
+    "team": "Buffalo",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-07T06:14:45+00:00",
+    "player": "Teuvo Teravainen",
+    "team": "Chicago",
+    "from": "Available",
+    "to": "Expected to be out until at least Oct 10"
+  },
+  {
+    "ts": "2026-10-07T06:14:45+00:00",
+    "player": "Brad Marchand",
+    "team": "Florida",
+    "from": "Cleared",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-07T06:14:45+00:00",
+    "player": "Nick Foligno",
+    "team": "Minnesota",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-07T06:14:45+00:00",
+    "player": "Ivan Demidov",
+    "team": "Montreal",
+    "from": "IR. Expected to be out until at least Oct 20",
+    "to": "IR. Expected to be out until at least Oct 31"
+  },
+  {
+    "ts": "2026-10-07T06:14:45+00:00",
+    "player": "Jonas Siegenthaler",
+    "team": "New Jersey",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-07T06:14:45+00:00",
+    "player": "Alexander Romanov",
+    "team": "N.Y. Islanders",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-07T06:14:45+00:00",
+    "player": "Ryan Lindgren",
+    "team": "Seattle",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-07T06:14:45+00:00",
+    "player": "Mikhail Sergachev",
+    "team": "Utah",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-07T06:14:45+00:00",
+    "player": "Victor Olofsson",
+    "team": "Vegas",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-07T06:14:45+00:00",
+    "player": "Raphael Lavoie",
+    "team": "Vegas",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Oct 8"
+  },
+  {
+    "ts": "2026-10-07T06:14:45+00:00",
+    "player": "Danila Yurov",
+    "team": "Minnesota",
+    "from": "Day-to-Day",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-06T22:43:16+00:00",
     "player": "Georgii Merkulov",
     "team": "Colorado",
