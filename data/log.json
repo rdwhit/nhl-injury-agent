@@ -1,5 +1,61 @@
 [
   {
+    "ts": "2026-10-09T10:46:46+00:00",
+    "player": "Mavrik Bourque",
+    "team": "Nashville",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-09T10:46:46+00:00",
+    "player": "William Trudeau",
+    "team": "Nashville",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-09T10:46:46+00:00",
+    "player": "B. Horvat",
+    "team": "N.Y. Islanders",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-09T10:46:46+00:00",
+    "player": "William Eklund",
+    "team": "Ottawa",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-09T10:46:46+00:00",
+    "player": "Oliver Ekman-Larsson",
+    "team": "Toronto",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-09T10:46:46+00:00",
+    "player": "Jason Zucker",
+    "team": "Buffalo",
+    "from": "IR. Expected to be out until at least Oct 15",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-09T10:46:46+00:00",
+    "player": "Ryan Ellis",
+    "team": "Chicago",
+    "from": "IR. Expected to be out until at least Jul 1",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-09T10:46:46+00:00",
+    "player": "Logan Couture",
+    "team": "San Jose",
+    "from": "IR. Expected to be out until at least Jul 1",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-09T01:18:17+00:00",
     "player": "Charlie McAvoy",
     "team": "Boston",
