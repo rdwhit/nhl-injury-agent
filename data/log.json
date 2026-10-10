@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-10-10T06:07:18+00:00",
+    "player": "Frank Nazar",
+    "team": "Chicago",
+    "from": "Available",
+    "to": "Expected to be out until at least Oct 15"
+  },
+  {
+    "ts": "2026-10-10T06:07:18+00:00",
+    "player": "Igor Shesterkin",
+    "team": "N.Y. Rangers",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
     "ts": "2026-10-09T22:47:32+00:00",
     "player": "Charlie McAvoy",
     "team": "Boston",
