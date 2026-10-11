@@ -1,5 +1,103 @@
 [
   {
+    "ts": "2026-10-11T13:11:30+00:00",
+    "player": "Samuel Honzek",
+    "team": "Calgary",
+    "from": "Expected to be out until at least Oct 13",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-11T13:11:30+00:00",
+    "player": "Jake Walman",
+    "team": "Edmonton",
+    "from": "Expected to be out until at least Oct 13",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-11T13:11:30+00:00",
+    "player": "Zach Hyman",
+    "team": "Edmonton",
+    "from": "Expected to be out until at least Oct 13",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-11T13:11:30+00:00",
+    "player": "Marcus Foligno",
+    "team": "Minnesota",
+    "from": "Expected to be out until at least Oct 12",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-11T13:11:30+00:00",
+    "player": "Zach Bogosian",
+    "team": "Minnesota",
+    "from": "Expected to be out until at least Oct 12",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-11T13:11:30+00:00",
+    "player": "Florian Xhekaj",
+    "team": "Montreal",
+    "from": "Expected to be out until at least Oct 13",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-11T13:11:30+00:00",
+    "player": "Mavrik Bourque",
+    "team": "Nashville",
+    "from": "Expected to be out until at least Oct 13",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-11T13:11:30+00:00",
+    "player": "Jake Sanderson",
+    "team": "Ottawa",
+    "from": "Expected to be out until at least Oct 12",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-11T13:11:30+00:00",
+    "player": "Cam Crotty",
+    "team": "Ottawa",
+    "from": "Expected to be out until at least Oct 12",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-11T13:11:30+00:00",
+    "player": "Cam York",
+    "team": "Philadelphia",
+    "from": "Expected to be out until at least Oct 11",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-11T13:11:30+00:00",
+    "player": "Travis Konecny",
+    "team": "Philadelphia",
+    "from": "Expected to be out until at least Oct 11",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-11T13:11:30+00:00",
+    "player": "Trevor van Riemsdyk",
+    "team": "Pittsburgh",
+    "from": "Expected to be out until at least Oct 13",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-11T13:11:30+00:00",
+    "player": "Emil Martinsen Lilleberg",
+    "team": "Tampa Bay",
+    "from": "Expected to be out until at least Oct 13",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-11T13:11:30+00:00",
+    "player": "John Tavares",
+    "team": "Toronto",
+    "from": "Expected to be out until at least Oct 13",
+    "to": "Day-to-Day"
+  },
+  {
     "ts": "2026-10-11T06:04:55+00:00",
     "player": "Ryan Poehling",
     "team": "Anaheim",
