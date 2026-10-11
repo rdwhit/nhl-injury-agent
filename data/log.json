@@ -1,5 +1,47 @@
 [
   {
+    "ts": "2026-10-11T19:37:18+00:00",
+    "player": "Aidan Thompson",
+    "team": "N.Y. Rangers",
+    "from": "IR. Expected to be out until at least Oct 11",
+    "to": "IR. Expected to be out until at least Oct 26"
+  },
+  {
+    "ts": "2026-10-11T19:37:18+00:00",
+    "player": "Cam Crotty",
+    "team": "Ottawa",
+    "from": "Day-to-Day",
+    "to": "IR. Expected to be out until at least Oct 15"
+  },
+  {
+    "ts": "2026-10-11T19:37:18+00:00",
+    "player": "Rasmus Ristolainen",
+    "team": "Philadelphia",
+    "from": "IR. Expected to be out until at least Oct 11",
+    "to": "IR. Expected to be out until at least Oct 15"
+  },
+  {
+    "ts": "2026-10-11T19:37:18+00:00",
+    "player": "Akil Thomas",
+    "team": "Vancouver",
+    "from": "IR. Expected to be out until at least Oct 11",
+    "to": "IR. Expected to be out until at least Oct 22"
+  },
+  {
+    "ts": "2026-10-11T19:37:18+00:00",
+    "player": "Jack Thompson",
+    "team": "Vancouver",
+    "from": "IR. Expected to be out until at least Oct 11",
+    "to": "IR. Expected to be out until at least Oct 17"
+  },
+  {
+    "ts": "2026-10-11T19:37:18+00:00",
+    "player": "Eetu Luostarinen",
+    "team": "Florida",
+    "from": "Day-to-Day",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-11T13:11:30+00:00",
     "player": "Samuel Honzek",
     "team": "Calgary",
