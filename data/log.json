@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-10-13T10:51:44+00:00",
+    "player": "Jake Sanderson",
+    "team": "Ottawa",
+    "from": "Expected to be out until at least Oct 13",
+    "to": "Expected to be out until at least Oct 15"
+  },
+  {
+    "ts": "2026-10-13T10:51:44+00:00",
+    "player": "Artem Zub",
+    "team": "Ottawa",
+    "from": "IR. Expected to be out until at least Oct 13",
+    "to": "IR. Expected to be out until at least Oct 15"
+  },
+  {
     "ts": "2026-10-13T02:38:50+00:00",
     "player": "Brad Marchand",
     "team": "Florida",
