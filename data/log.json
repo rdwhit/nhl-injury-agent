@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-10-17T11:01:31+00:00",
+    "player": "Pavel Zacha",
+    "team": "Boston",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-17T11:01:31+00:00",
+    "player": "Egor Chinakhov",
+    "team": "Pittsburgh",
+    "from": "Expected to be out until at least Oct 17",
+    "to": "Expected to be out until at least Oct 22"
+  },
+  {
     "ts": "2026-10-17T04:45:25+00:00",
     "player": "Egor Chinakhov",
     "team": "Pittsburgh",
@@ -6984,19 +6998,5 @@
     "team": "Ottawa",
     "from": "Day-to-Day",
     "to": "Expected to be out until at least Oct 5"
-  },
-  {
-    "ts": "2026-09-30T20:10:41+00:00",
-    "player": "Nikita Grebenkin",
-    "team": "Philadelphia",
-    "from": "Day-to-Day",
-    "to": "Expected to be out until at least Oct 3"
-  },
-  {
-    "ts": "2026-09-30T20:10:41+00:00",
-    "player": "Helge Grans",
-    "team": "Philadelphia",
-    "from": "Cleared",
-    "to": "IR. Expected to be out until at least Oct 5"
   }
 ]
