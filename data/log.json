@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-10-17T23:15:30+00:00",
+    "player": "Brandon Montour",
+    "team": "Seattle",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Oct 20"
+  },
+  {
+    "ts": "2026-10-17T23:15:30+00:00",
+    "player": "John Tavares",
+    "team": "Toronto",
+    "from": "Expected to be out until at least Oct 31",
+    "to": "IR. Expected to be out until at least Nov 27"
+  },
+  {
     "ts": "2026-10-17T20:46:21+00:00",
     "player": "Mikael Granlund",
     "team": "Anaheim",
@@ -6984,19 +6998,5 @@
     "team": "Philadelphia",
     "from": "IR. Expected to be out until at least Oct 13",
     "to": "IR. Expected to be out until at least Oct 10"
-  },
-  {
-    "ts": "2026-10-04T18:41:57+00:00",
-    "player": "Alexei Toropchenko",
-    "team": "St. Louis",
-    "from": "Expected to be out until at least Oct 6",
-    "to": "Expected to be out until at least Oct 10"
-  },
-  {
-    "ts": "2026-10-04T18:41:57+00:00",
-    "player": "Jake DeBrusk",
-    "team": "Vancouver",
-    "from": "Expected to be out until at least Oct 4",
-    "to": "Day-to-Day"
   }
 ]
