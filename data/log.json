@@ -1,5 +1,12 @@
 [
   {
+    "ts": "2026-10-17T04:45:25+00:00",
+    "player": "Egor Chinakhov",
+    "team": "Pittsburgh",
+    "from": "Available",
+    "to": "Expected to be out until at least Oct 17"
+  },
+  {
     "ts": "2026-10-16T23:45:37+00:00",
     "player": "Jason Zucker",
     "team": "Buffalo",
@@ -6991,12 +6998,5 @@
     "team": "Philadelphia",
     "from": "Cleared",
     "to": "IR. Expected to be out until at least Oct 5"
-  },
-  {
-    "ts": "2026-09-30T20:10:41+00:00",
-    "player": "Tristan Broz",
-    "team": "Pittsburgh",
-    "from": "Cleared",
-    "to": "IR. Expected to be out until at least Oct 3"
   }
 ]
