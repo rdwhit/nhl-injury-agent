@@ -1,5 +1,33 @@
 [
   {
+    "ts": "2026-10-19T05:00:18+00:00",
+    "player": "Mark Jankowski",
+    "team": "Carolina",
+    "from": "Available",
+    "to": "Expected to be out until at least Oct 27"
+  },
+  {
+    "ts": "2026-10-19T05:00:18+00:00",
+    "player": "Olli Maatta",
+    "team": "Minnesota",
+    "from": "Expected to be out until at least Oct 20",
+    "to": "Expected to be out until at least Oct 22"
+  },
+  {
+    "ts": "2026-10-19T05:00:18+00:00",
+    "player": "Marcus Foligno",
+    "team": "Minnesota",
+    "from": "IR. Expected to be out until at least Oct 20",
+    "to": "IR. Expected to be out until at least Oct 24"
+  },
+  {
+    "ts": "2026-10-19T05:00:18+00:00",
+    "player": "Ross Johnston",
+    "team": "St. Louis",
+    "from": "Day-to-Day",
+    "to": "IR. Expected to be out until at least Oct 24"
+  },
+  {
     "ts": "2026-10-18T23:25:21+00:00",
     "player": "Filip Gustavsson",
     "team": "Minnesota",
@@ -6970,33 +6998,5 @@
     "team": "Winnipeg",
     "from": "Available",
     "to": "Day-to-Day"
-  },
-  {
-    "ts": "2026-10-08T01:08:27+00:00",
-    "player": "Colton Dach",
-    "team": "Edmonton",
-    "from": "Available",
-    "to": "IR. Expected to be out until at least Oct 13"
-  },
-  {
-    "ts": "2026-10-08T01:08:27+00:00",
-    "player": "Andrei Kuzmenko",
-    "team": "Pittsburgh",
-    "from": "IR. Expected to be out until at least Oct 10",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-08T01:08:27+00:00",
-    "player": "Bryan Rust",
-    "team": "Pittsburgh",
-    "from": "IR. Expected to be out until at least Oct 7",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-07T20:41:43+00:00",
-    "player": "Drew Helleson",
-    "team": "Anaheim",
-    "from": "IR. Expected to be out until at least Oct 7",
-    "to": "IR. Expected to be out until at least Oct 10"
   }
 ]
