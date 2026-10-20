@@ -1,5 +1,54 @@
 [
   {
+    "ts": "2026-10-20T05:07:44+00:00",
+    "player": "Mikael Backlund",
+    "team": "Calgary",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-20T05:07:44+00:00",
+    "player": "Samuel Honzek",
+    "team": "Calgary",
+    "from": "Day-to-Day",
+    "to": "IR. Expected to be out until at least Oct 28"
+  },
+  {
+    "ts": "2026-10-20T05:07:44+00:00",
+    "player": "Samuel Girard",
+    "team": "Pittsburgh",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Oct 22"
+  },
+  {
+    "ts": "2026-10-20T05:07:44+00:00",
+    "player": "Bryan Rust",
+    "team": "Pittsburgh",
+    "from": "Cleared",
+    "to": "Expected to be out until at least Oct 22"
+  },
+  {
+    "ts": "2026-10-20T05:07:44+00:00",
+    "player": "Alex Wennberg",
+    "team": "San Jose",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-20T05:07:44+00:00",
+    "player": "John Marino",
+    "team": "Utah",
+    "from": "Available",
+    "to": "Expected to be out until at least Oct 22"
+  },
+  {
+    "ts": "2026-10-20T05:07:44+00:00",
+    "player": "Egor Chinakhov",
+    "team": "Pittsburgh",
+    "from": "Day-to-Day",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-20T00:28:44+00:00",
     "player": "Calum Ritchie",
     "team": "N.Y. Islanders",
@@ -6948,55 +6997,6 @@
     "player": "Bryce Pickford",
     "team": "Montreal",
     "from": "IR. Expected to be out until at least Oct 17",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-09T01:18:17+00:00",
-    "player": "Aidan Thompson",
-    "team": "N.Y. Rangers",
-    "from": "IR. Expected to be out until at least Oct 11",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-09T01:18:17+00:00",
-    "player": "Helge Grans",
-    "team": "Philadelphia",
-    "from": "IR. Expected to be out until at least Oct 11",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-09T01:18:17+00:00",
-    "player": "Quentin Musty",
-    "team": "San Jose",
-    "from": "IR. Expected to be out until at least Dec 1",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-09T01:18:17+00:00",
-    "player": "Cameron Lund",
-    "team": "San Jose",
-    "from": "IR. Expected to be out until at least Oct 19",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-09T01:18:17+00:00",
-    "player": "Kyle Keyser",
-    "team": "San Jose",
-    "from": "IR. Expected to be out until at least Dec 1",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-09T01:18:17+00:00",
-    "player": "Jake O'Brien",
-    "team": "Seattle",
-    "from": "IR. Expected to be out until at least Oct 24",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-09T01:18:17+00:00",
-    "player": "Adam Jecho",
-    "team": "St. Louis",
-    "from": "IR. Expected to be out until at least Nov 3",
     "to": "Cleared"
   }
 ]
