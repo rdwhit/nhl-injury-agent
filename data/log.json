@@ -1,5 +1,68 @@
 [
   {
+    "ts": "2026-10-21T17:28:10+00:00",
+    "player": "Sam Carrick",
+    "team": "Buffalo",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Oct 24"
+  },
+  {
+    "ts": "2026-10-21T17:28:10+00:00",
+    "player": "Justin Danforth",
+    "team": "Buffalo",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Oct 24"
+  },
+  {
+    "ts": "2026-10-21T17:28:10+00:00",
+    "player": "Nicolas Roy",
+    "team": "Colorado",
+    "from": "Expected to be out until at least Oct 23",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-21T17:28:10+00:00",
+    "player": "Mike Matheson",
+    "team": "Montreal",
+    "from": "Expected to be out until at least Oct 23",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-21T17:28:10+00:00",
+    "player": "Alex Wennberg",
+    "team": "San Jose",
+    "from": "Expected to be out until at least Oct 22",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-21T17:28:10+00:00",
+    "player": "Marco Rossi",
+    "team": "Vancouver",
+    "from": "Expected to be out until at least Oct 22",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-21T17:28:10+00:00",
+    "player": "Logan Thompson",
+    "team": "Washington",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-21T17:28:10+00:00",
+    "player": "Justin Sourdif",
+    "team": "Washington",
+    "from": "Expected to be out until at least Oct 24",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-21T17:28:10+00:00",
+    "player": "Rasmus Dahlin",
+    "team": "Buffalo",
+    "from": "Day-to-Day",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-21T12:07:56+00:00",
     "player": "Anthony Cirelli",
     "team": "Tampa Bay",
@@ -6935,68 +6998,5 @@
     "team": "Utah",
     "from": "Cleared",
     "to": "Day-to-Day"
-  },
-  {
-    "ts": "2026-10-09T22:47:32+00:00",
-    "player": "Jason Zucker",
-    "team": "Buffalo",
-    "from": "IR. Expected to be out until at least Oct 15",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-09T22:47:32+00:00",
-    "player": "Andrei Kuzmenko",
-    "team": "Pittsburgh",
-    "from": "IR. Expected to be out until at least Oct 10",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-09T22:47:32+00:00",
-    "player": "Rasmus Sandin",
-    "team": "Washington",
-    "from": "IR. Expected to be out until at least Dec 26",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-09T22:47:32+00:00",
-    "player": "Jack Rathbone",
-    "team": "Buffalo",
-    "from": "IR. Expected to be out until at least Oct 24",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-09T22:47:32+00:00",
-    "player": "Ryan Ellis",
-    "team": "Chicago",
-    "from": "IR. Expected to be out until at least Jul 1",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-09T22:47:32+00:00",
-    "player": "Carter Bear",
-    "team": "Detroit",
-    "from": "IR. Expected to be out until at least Oct 10",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-09T22:47:32+00:00",
-    "player": "James Stefan",
-    "team": "Edmonton",
-    "from": "IR. Expected to be out until at least Oct 10",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-09T22:47:32+00:00",
-    "player": "Jakub Dvorak",
-    "team": "Los Angeles",
-    "from": "IR. Expected to be out until at least Oct 31",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-09T22:47:32+00:00",
-    "player": "Lucas Condotta",
-    "team": "Montreal",
-    "from": "IR. Expected to be out until at least Oct 10",
-    "to": "Cleared"
   }
 ]
