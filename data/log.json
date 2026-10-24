@@ -1,5 +1,12 @@
 [
   {
+    "ts": "2026-10-24T11:21:41+00:00",
+    "player": "Victor Hedman",
+    "team": "Tampa Bay",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
     "ts": "2026-10-24T04:51:16+00:00",
     "player": "Bowen Byram",
     "team": "Chicago",
@@ -6991,12 +6998,5 @@
     "team": "Tampa Bay",
     "from": "Available",
     "to": "Day-to-Day"
-  },
-  {
-    "ts": "2026-10-13T19:24:22+00:00",
-    "player": "Cade Webber",
-    "team": "Toronto",
-    "from": "Cleared",
-    "to": "IR. Expected to be out until at least Oct 31"
   }
 ]
