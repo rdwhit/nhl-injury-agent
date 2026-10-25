@@ -1,5 +1,33 @@
 [
   {
+    "ts": "2026-10-25T05:01:18+00:00",
+    "player": "Justin Danforth",
+    "team": "Buffalo",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Oct 27"
+  },
+  {
+    "ts": "2026-10-25T05:01:18+00:00",
+    "player": "Daniil Tarasov",
+    "team": "Detroit",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Oct 26"
+  },
+  {
+    "ts": "2026-10-25T05:01:18+00:00",
+    "player": "Victor Hedman",
+    "team": "Tampa Bay",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Oct 29"
+  },
+  {
+    "ts": "2026-10-25T05:01:18+00:00",
+    "player": "Maxim Shabanov",
+    "team": "Minnesota",
+    "from": "Day-to-Day",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-24T23:29:04+00:00",
     "player": "Mark Jankowski",
     "team": "Carolina",
@@ -6970,33 +6998,5 @@
     "team": "Nashville",
     "from": "Day-to-Day",
     "to": "Expected to be out until at least Oct 15"
-  },
-  {
-    "ts": "2026-10-14T05:09:28+00:00",
-    "player": "Aidan Thompson",
-    "team": "N.Y. Rangers",
-    "from": "Cleared",
-    "to": "IR. Expected to be out until at least Oct 26"
-  },
-  {
-    "ts": "2026-10-14T05:09:28+00:00",
-    "player": "Ridly Greig",
-    "team": "Ottawa",
-    "from": "Cleared",
-    "to": "Day-to-Day"
-  },
-  {
-    "ts": "2026-10-14T05:09:28+00:00",
-    "player": "Quentin Musty",
-    "team": "San Jose",
-    "from": "Cleared",
-    "to": "IR. Expected to be out until at least Dec 1"
-  },
-  {
-    "ts": "2026-10-14T05:09:28+00:00",
-    "player": "Cameron Lund",
-    "team": "San Jose",
-    "from": "Cleared",
-    "to": "IR. Expected to be out until at least Oct 19"
   }
 ]
