@@ -1,5 +1,40 @@
 [
   {
+    "ts": "2026-10-25T21:00:54+00:00",
+    "player": "Jared McCann",
+    "team": "Seattle",
+    "from": "IR. Expected to be out until at least Oct 30",
+    "to": "IR. Expected to be out until at least Jan 2"
+  },
+  {
+    "ts": "2026-10-25T21:00:54+00:00",
+    "player": "Josh Morrissey",
+    "team": "Winnipeg",
+    "from": "IR. Expected to be out until at least Nov 1",
+    "to": "IR. Expected to be out until at least Nov 5"
+  },
+  {
+    "ts": "2026-10-25T21:00:54+00:00",
+    "player": "Vladislav Namestnikov",
+    "team": "Winnipeg",
+    "from": "IR. Expected to be out until at least Oct 30",
+    "to": "IR. Expected to be out until at least Nov 3"
+  },
+  {
+    "ts": "2026-10-25T21:00:54+00:00",
+    "player": "Gustav Forsling",
+    "team": "Florida",
+    "from": "Day-to-Day",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-25T21:00:54+00:00",
+    "player": "Nino Niederreiter",
+    "team": "Winnipeg",
+    "from": "Day-to-Day",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-25T16:38:37+00:00",
     "player": "Justin Danforth",
     "team": "Buffalo",
@@ -6963,40 +6998,5 @@
     "team": "Vancouver",
     "from": "IR. Expected to be out until at least Oct 17",
     "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-14T12:11:37+00:00",
-    "player": "Kai Uchacz",
-    "team": "Vegas",
-    "from": "IR. Expected to be out until at least Oct 24",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-14T12:11:37+00:00",
-    "player": "Lukas Cormier",
-    "team": "Vegas",
-    "from": "IR. Expected to be out until at least Oct 22",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-14T12:11:37+00:00",
-    "player": "Walker Duehr",
-    "team": "Winnipeg",
-    "from": "IR. Expected to be out until at least Oct 17",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-14T12:11:37+00:00",
-    "player": "Elias Salomonsson",
-    "team": "Winnipeg",
-    "from": "IR. Expected to be out until at least Oct 15",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-14T05:09:28+00:00",
-    "player": "Jack Rathbone",
-    "team": "Buffalo",
-    "from": "Cleared",
-    "to": "IR. Expected to be out until at least Oct 24"
   }
 ]
