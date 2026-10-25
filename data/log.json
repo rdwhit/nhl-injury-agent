@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-10-25T23:24:16+00:00",
+    "player": "Radek Faksa",
+    "team": "Dallas",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Oct 27"
+  },
+  {
+    "ts": "2026-10-25T23:24:16+00:00",
+    "player": "Florian Xhekaj",
+    "team": "Montreal",
+    "from": "IR. Expected to be out until at least Oct 31",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-25T21:00:54+00:00",
     "player": "Jared McCann",
     "team": "Seattle",
@@ -6983,20 +6997,6 @@
     "player": "Cade Webber",
     "team": "Toronto",
     "from": "IR. Expected to be out until at least Oct 31",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-14T12:11:37+00:00",
-    "player": "MacKenzie MacEachern",
-    "team": "Vancouver",
-    "from": "IR. Expected to be out until at least Oct 25",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-14T12:11:37+00:00",
-    "player": "Jack Thompson",
-    "team": "Vancouver",
-    "from": "IR. Expected to be out until at least Oct 17",
     "to": "Cleared"
   }
 ]
