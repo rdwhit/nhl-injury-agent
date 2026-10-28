@@ -1,5 +1,54 @@
 [
   {
+    "ts": "2026-10-28T22:44:02+00:00",
+    "player": "Justin Brazeau",
+    "team": "Pittsburgh",
+    "from": "IR. Expected to be out until at least Nov 3",
+    "to": "Expected to be out until at least Nov 3"
+  },
+  {
+    "ts": "2026-10-28T22:44:02+00:00",
+    "player": "Elmer Soderblom",
+    "team": "Pittsburgh",
+    "from": "Day-to-Day",
+    "to": "IR. Expected to be out until at least Nov 7"
+  },
+  {
+    "ts": "2026-10-28T22:44:02+00:00",
+    "player": "Brandon Hagel",
+    "team": "Tampa Bay",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-28T22:44:02+00:00",
+    "player": "Zemgus Girgensons",
+    "team": "Tampa Bay",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Oct 31"
+  },
+  {
+    "ts": "2026-10-28T22:44:02+00:00",
+    "player": "Kirill Marchenko",
+    "team": "Toronto",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Nov 7"
+  },
+  {
+    "ts": "2026-10-28T22:44:02+00:00",
+    "player": "Dakota Joshua",
+    "team": "Toronto",
+    "from": "IR. Expected to be out until at least Nov 8",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-28T22:44:02+00:00",
+    "player": "Jason Dickinson",
+    "team": "Edmonton",
+    "from": "IR. Expected to be out until at least Oct 28",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-28T18:24:53+00:00",
     "player": "Justin Danforth",
     "team": "Buffalo",
@@ -6949,54 +6998,5 @@
     "team": "Nashville",
     "from": "Day-to-Day",
     "to": "Expected to be out until at least Oct 17"
-  },
-  {
-    "ts": "2026-10-16T04:46:33+00:00",
-    "player": "Darnell Nurse",
-    "team": "San Jose",
-    "from": "Day-to-Day",
-    "to": "Expected to be out until at least Oct 17"
-  },
-  {
-    "ts": "2026-10-16T04:46:33+00:00",
-    "player": "Brandon Montour",
-    "team": "Seattle",
-    "from": "Available",
-    "to": "Day-to-Day"
-  },
-  {
-    "ts": "2026-10-16T04:46:33+00:00",
-    "player": "Miles Wood",
-    "team": "Toronto",
-    "from": "Available",
-    "to": "IR. Expected to be out until at least Oct 22"
-  },
-  {
-    "ts": "2026-10-16T04:46:33+00:00",
-    "player": "John Tavares",
-    "team": "Toronto",
-    "from": "Cleared",
-    "to": "Day-to-Day"
-  },
-  {
-    "ts": "2026-10-16T04:46:33+00:00",
-    "player": "Vladislav Namestnikov",
-    "team": "Winnipeg",
-    "from": "Day-to-Day",
-    "to": "Expected to be out until at least Oct 17"
-  },
-  {
-    "ts": "2026-10-15T21:34:53+00:00",
-    "player": "Mikael Granlund",
-    "team": "Anaheim",
-    "from": "Available",
-    "to": "Day-to-Day"
-  },
-  {
-    "ts": "2026-10-15T21:34:53+00:00",
-    "player": "J.T. Compher",
-    "team": "Detroit",
-    "from": "IR. Expected to be out until at least Oct 15",
-    "to": "IR. Expected to be out until at least Oct 17"
   }
 ]
