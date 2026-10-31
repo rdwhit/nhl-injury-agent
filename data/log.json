@@ -1,5 +1,131 @@
 [
   {
+    "ts": "2026-10-31T06:01:58+00:00",
+    "player": "Anthony Mantha",
+    "team": "New Jersey",
+    "from": "Cleared",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-10-31T06:01:58+00:00",
+    "player": "Hayden Hodgson",
+    "team": "Ottawa",
+    "from": "Available",
+    "to": "Expected to be out until at least Nov 4"
+  },
+  {
+    "ts": "2026-10-31T06:01:58+00:00",
+    "player": "Simon Edvinsson",
+    "team": "Detroit",
+    "from": "IR. Expected to be out until at least Oct 31",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-31T06:01:58+00:00",
+    "player": "Jack Rathbone",
+    "team": "Buffalo",
+    "from": "IR. Expected to be out until at least Nov 8",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-31T06:01:58+00:00",
+    "player": "Ryan Ellis",
+    "team": "Chicago",
+    "from": "IR. Expected to be out until at least Jul 1",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-31T06:01:58+00:00",
+    "player": "Jakub Dvorak",
+    "team": "Los Angeles",
+    "from": "IR. Expected to be out until at least Oct 31",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-31T06:01:58+00:00",
+    "player": "Lucas Condotta",
+    "team": "Montreal",
+    "from": "IR. Expected to be out until at least Oct 31",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-31T06:01:58+00:00",
+    "player": "Bryce Pickford",
+    "team": "Montreal",
+    "from": "IR. Expected to be out until at least Oct 31",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-31T06:01:58+00:00",
+    "player": "Aidan Thompson",
+    "team": "N.Y. Rangers",
+    "from": "IR. Expected to be out until at least Nov 13",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-31T06:01:58+00:00",
+    "player": "Quentin Musty",
+    "team": "San Jose",
+    "from": "IR. Expected to be out until at least Dec 1",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-31T06:01:58+00:00",
+    "player": "Kyle Keyser",
+    "team": "San Jose",
+    "from": "IR. Expected to be out until at least Dec 1",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-31T06:01:58+00:00",
+    "player": "Logan Couture",
+    "team": "San Jose",
+    "from": "IR. Expected to be out until at least Jul 1",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-31T06:01:58+00:00",
+    "player": "Jake O'Brien",
+    "team": "Seattle",
+    "from": "IR. Expected to be out until at least Nov 12",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-31T06:01:58+00:00",
+    "player": "Adam Jecho",
+    "team": "St. Louis",
+    "from": "IR. Expected to be out until at least Nov 3",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-31T06:01:58+00:00",
+    "player": "William Villeneuve",
+    "team": "Toronto",
+    "from": "IR. Expected to be out until at least Oct 31",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-31T06:01:58+00:00",
+    "player": "Cade Webber",
+    "team": "Toronto",
+    "from": "IR. Expected to be out until at least Oct 31",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-31T06:01:58+00:00",
+    "player": "MacKenzie MacEachern",
+    "team": "Vancouver",
+    "from": "IR. Expected to be out until at least Nov 7",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-10-31T06:01:58+00:00",
+    "player": "Kai Uchacz",
+    "team": "Vegas",
+    "from": "IR. Expected to be out until at least Nov 15",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-30T22:31:33+00:00",
     "player": "Devin Cooley",
     "team": "Calgary",
@@ -6872,131 +6998,5 @@
     "team": "Winnipeg",
     "from": "IR. Expected to be out until at least Oct 17",
     "to": "IR. Expected to be out until at least Oct 30"
-  },
-  {
-    "ts": "2026-10-17T15:46:57+00:00",
-    "player": "Connor Hellebuyck",
-    "team": "Winnipeg",
-    "from": "Expected to be out until at least Oct 17",
-    "to": "Expected to be out until at least Nov 14"
-  },
-  {
-    "ts": "2026-10-17T15:46:57+00:00",
-    "player": "Jake Walman",
-    "team": "Edmonton",
-    "from": "Day-to-Day",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-17T15:46:57+00:00",
-    "player": "Jacob Markstrom",
-    "team": "Florida",
-    "from": "Expected to be out until at least Oct 21",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-17T11:01:31+00:00",
-    "player": "Pavel Zacha",
-    "team": "Boston",
-    "from": "Available",
-    "to": "Day-to-Day"
-  },
-  {
-    "ts": "2026-10-17T11:01:31+00:00",
-    "player": "Egor Chinakhov",
-    "team": "Pittsburgh",
-    "from": "Expected to be out until at least Oct 17",
-    "to": "Expected to be out until at least Oct 22"
-  },
-  {
-    "ts": "2026-10-17T04:45:25+00:00",
-    "player": "Egor Chinakhov",
-    "team": "Pittsburgh",
-    "from": "Available",
-    "to": "Expected to be out until at least Oct 17"
-  },
-  {
-    "ts": "2026-10-16T23:45:37+00:00",
-    "player": "Jason Zucker",
-    "team": "Buffalo",
-    "from": "IR. Expected to be out until at least Oct 27",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-16T23:45:37+00:00",
-    "player": "Alexander Nikishin",
-    "team": "Carolina",
-    "from": "IR. Expected to be out until at least Nov 1",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-16T23:45:37+00:00",
-    "player": "Simon Edvinsson",
-    "team": "Detroit",
-    "from": "IR. Expected to be out until at least Oct 31",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-16T23:45:37+00:00",
-    "player": "Jack Rathbone",
-    "team": "Buffalo",
-    "from": "IR. Expected to be out until at least Oct 24",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-16T23:45:37+00:00",
-    "player": "Ryan Ellis",
-    "team": "Chicago",
-    "from": "IR. Expected to be out until at least Jul 1",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-16T23:45:37+00:00",
-    "player": "James Stefan",
-    "team": "Edmonton",
-    "from": "IR. Expected to be out until at least Oct 17",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-16T23:45:37+00:00",
-    "player": "Jakub Dvorak",
-    "team": "Los Angeles",
-    "from": "IR. Expected to be out until at least Oct 31",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-16T23:45:37+00:00",
-    "player": "Lucas Condotta",
-    "team": "Montreal",
-    "from": "IR. Expected to be out until at least Oct 31",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-16T23:45:37+00:00",
-    "player": "Bryce Pickford",
-    "team": "Montreal",
-    "from": "IR. Expected to be out until at least Oct 17",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-16T23:45:37+00:00",
-    "player": "Aidan Thompson",
-    "team": "N.Y. Rangers",
-    "from": "IR. Expected to be out until at least Oct 26",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-16T23:45:37+00:00",
-    "player": "Quentin Musty",
-    "team": "San Jose",
-    "from": "IR. Expected to be out until at least Dec 1",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-16T23:45:37+00:00",
-    "player": "Kyle Keyser",
-    "team": "San Jose",
-    "from": "IR. Expected to be out until at least Dec 1",
-    "to": "Cleared"
   }
 ]
