@@ -1,5 +1,47 @@
 [
   {
+    "ts": "2026-11-01T00:15:13+00:00",
+    "player": "Troy Terry",
+    "team": "Anaheim",
+    "from": "IR. Expected to be out until at least Nov 21",
+    "to": "IR. Expected to be out until at least Nov 6"
+  },
+  {
+    "ts": "2026-11-01T00:15:13+00:00",
+    "player": "Brennan Othmann",
+    "team": "Calgary",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Nov 2"
+  },
+  {
+    "ts": "2026-11-01T00:15:13+00:00",
+    "player": "Isaac Howard",
+    "team": "Edmonton",
+    "from": "Available",
+    "to": "Expected to be out until at least Nov 3"
+  },
+  {
+    "ts": "2026-11-01T00:15:13+00:00",
+    "player": "Kirby Dach",
+    "team": "Montreal",
+    "from": "Available",
+    "to": "Expected to be out until at least Nov 3"
+  },
+  {
+    "ts": "2026-11-01T00:15:13+00:00",
+    "player": "Andre Burakovsky",
+    "team": "Ottawa",
+    "from": "Expected to be out until at least Nov 21",
+    "to": "IR. Expected to be out until at least Nov 21"
+  },
+  {
+    "ts": "2026-11-01T00:15:13+00:00",
+    "player": "James Reimer",
+    "team": "N.Y. Rangers",
+    "from": "Day-to-Day",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-10-31T19:24:51+00:00",
     "player": "Alex Lyon",
     "team": "Buffalo",
@@ -6955,48 +6997,6 @@
     "player": "Jack Thompson",
     "team": "Vancouver",
     "from": "IR. Expected to be out until at least Oct 31",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-17T20:46:21+00:00",
-    "player": "Kai Uchacz",
-    "team": "Vegas",
-    "from": "IR. Expected to be out until at least Oct 24",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-17T20:46:21+00:00",
-    "player": "Lukas Cormier",
-    "team": "Vegas",
-    "from": "IR. Expected to be out until at least Oct 22",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-17T20:46:21+00:00",
-    "player": "Walker Duehr",
-    "team": "Winnipeg",
-    "from": "IR. Expected to be out until at least Oct 29",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-17T20:46:21+00:00",
-    "player": "Elias Salomonsson",
-    "team": "Winnipeg",
-    "from": "IR. Expected to be out until at least Oct 22",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-17T20:46:21+00:00",
-    "player": "Colton Dach",
-    "team": "Edmonton",
-    "from": "IR. Expected to be out until at least Oct 17",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-17T20:46:21+00:00",
-    "player": "Nikolas Matinpalo",
-    "team": "Ottawa",
-    "from": "Expected to be out until at least Oct 24",
     "to": "Cleared"
   }
 ]
