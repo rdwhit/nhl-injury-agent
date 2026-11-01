@@ -1,5 +1,82 @@
 [
   {
+    "ts": "2026-11-01T22:14:00+00:00",
+    "player": "Jacob Markstrom",
+    "team": "Florida",
+    "from": "IR. Expected to be out until at least Nov 4",
+    "to": "IR. Expected to be out until at least Nov 2"
+  },
+  {
+    "ts": "2026-11-01T22:14:00+00:00",
+    "player": "Ryan Pulock",
+    "team": "N.Y. Islanders",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Nov 28"
+  },
+  {
+    "ts": "2026-11-01T22:14:00+00:00",
+    "player": "Ross Johnston",
+    "team": "St. Louis",
+    "from": "IR. Expected to be out until at least Nov 3",
+    "to": "IR. Expected to be out until at least Nov 7"
+  },
+  {
+    "ts": "2026-11-01T22:14:00+00:00",
+    "player": "John Marino",
+    "team": "Utah",
+    "from": "Expected to be out until at least Nov 5",
+    "to": "IR. Expected to be out until at least Nov 5"
+  },
+  {
+    "ts": "2026-11-01T22:14:00+00:00",
+    "player": "Kailer Yamamoto",
+    "team": "Utah",
+    "from": "Available",
+    "to": "Expected to be out until at least Nov 3"
+  },
+  {
+    "ts": "2026-11-01T22:14:00+00:00",
+    "player": "Cole Koepke",
+    "team": "Winnipeg",
+    "from": "Available",
+    "to": "Expected to be out until at least Nov 3"
+  },
+  {
+    "ts": "2026-11-01T22:14:00+00:00",
+    "player": "Michael Carcone",
+    "team": "Utah",
+    "from": "IR. Expected to be out until at least Nov 1",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-11-01T22:14:00+00:00",
+    "player": "Pavel Mintyukov",
+    "team": "Anaheim",
+    "from": "IR. Expected to be out until at least Nov 1",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-11-01T22:14:00+00:00",
+    "player": "Travis Konecny",
+    "team": "Philadelphia",
+    "from": "IR. Expected to be out until at least Nov 3",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-11-01T22:14:00+00:00",
+    "player": "Owen Tippett",
+    "team": "Philadelphia",
+    "from": "IR. Expected to be out until at least Nov 1",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-11-01T22:14:00+00:00",
+    "player": "Eeli Tolvanen",
+    "team": "N.Y. Rangers",
+    "from": "Day-to-Day",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-11-01T16:11:35+00:00",
     "player": "Jiri Kulich",
     "team": "Buffalo",
@@ -6921,82 +6998,5 @@
     "team": "Vancouver",
     "from": "Cleared",
     "to": "IR. Expected to be out until at least Oct 25"
-  },
-  {
-    "ts": "2026-10-18T04:51:48+00:00",
-    "player": "Kai Uchacz",
-    "team": "Vegas",
-    "from": "Cleared",
-    "to": "IR. Expected to be out until at least Oct 24"
-  },
-  {
-    "ts": "2026-10-18T04:51:48+00:00",
-    "player": "Lukas Cormier",
-    "team": "Vegas",
-    "from": "Cleared",
-    "to": "IR. Expected to be out until at least Oct 22"
-  },
-  {
-    "ts": "2026-10-18T04:51:48+00:00",
-    "player": "Walker Duehr",
-    "team": "Winnipeg",
-    "from": "Cleared",
-    "to": "IR. Expected to be out until at least Oct 29"
-  },
-  {
-    "ts": "2026-10-18T04:51:48+00:00",
-    "player": "Elias Salomonsson",
-    "team": "Winnipeg",
-    "from": "Cleared",
-    "to": "IR. Expected to be out until at least Oct 22"
-  },
-  {
-    "ts": "2026-10-18T04:51:48+00:00",
-    "player": "Darnell Nurse",
-    "team": "San Jose",
-    "from": "Day-to-Day",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-17T23:15:30+00:00",
-    "player": "Brandon Montour",
-    "team": "Seattle",
-    "from": "Day-to-Day",
-    "to": "Expected to be out until at least Oct 20"
-  },
-  {
-    "ts": "2026-10-17T23:15:30+00:00",
-    "player": "John Tavares",
-    "team": "Toronto",
-    "from": "Expected to be out until at least Oct 31",
-    "to": "IR. Expected to be out until at least Nov 27"
-  },
-  {
-    "ts": "2026-10-17T20:46:21+00:00",
-    "player": "Mikael Granlund",
-    "team": "Anaheim",
-    "from": "Expected to be out until at least Oct 24",
-    "to": "Day-to-Day"
-  },
-  {
-    "ts": "2026-10-17T20:46:21+00:00",
-    "player": "Bowen Byram",
-    "team": "Chicago",
-    "from": "Day-to-Day",
-    "to": "Expected to be out until at least Oct 23"
-  },
-  {
-    "ts": "2026-10-17T20:46:21+00:00",
-    "player": "Zachary L'Heureux",
-    "team": "Colorado",
-    "from": "Day-to-Day",
-    "to": "Expected to be out until at least Oct 23"
-  },
-  {
-    "ts": "2026-10-17T20:46:21+00:00",
-    "player": "Nicolas Roy",
-    "team": "Colorado",
-    "from": "Day-to-Day",
-    "to": "Expected to be out until at least Oct 23"
   }
 ]
