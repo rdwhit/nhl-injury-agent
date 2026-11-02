@@ -1,5 +1,40 @@
 [
   {
+    "ts": "2026-11-02T06:32:54+00:00",
+    "player": "Sean Durzi",
+    "team": "N.Y. Rangers",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Nov 3"
+  },
+  {
+    "ts": "2026-11-02T06:32:54+00:00",
+    "player": "Hayden Hodgson",
+    "team": "Ottawa",
+    "from": "Cleared",
+    "to": "Expected to be out until at least Nov 4"
+  },
+  {
+    "ts": "2026-11-02T06:32:54+00:00",
+    "player": "Max Domi",
+    "team": "Toronto",
+    "from": "IR. Expected to be out until at least Nov 21",
+    "to": "IR. Expected to be out until at least Jan 30"
+  },
+  {
+    "ts": "2026-11-02T06:32:54+00:00",
+    "player": "John Marino",
+    "team": "Utah",
+    "from": "IR. Expected to be out until at least Nov 5",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-11-02T06:32:54+00:00",
+    "player": "Braden Schneider",
+    "team": "N.Y. Rangers",
+    "from": "Day-to-Day",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-11-01T22:14:00+00:00",
     "player": "Jacob Markstrom",
     "team": "Florida",
@@ -6963,40 +6998,5 @@
     "team": "Seattle",
     "from": "Cleared",
     "to": "IR. Expected to be out until at least Oct 24"
-  },
-  {
-    "ts": "2026-10-18T04:51:48+00:00",
-    "player": "Adam Jecho",
-    "team": "St. Louis",
-    "from": "Cleared",
-    "to": "IR. Expected to be out until at least Nov 3"
-  },
-  {
-    "ts": "2026-10-18T04:51:48+00:00",
-    "player": "William Villeneuve",
-    "team": "Toronto",
-    "from": "Cleared",
-    "to": "IR. Expected to be out until at least Oct 31"
-  },
-  {
-    "ts": "2026-10-18T04:51:48+00:00",
-    "player": "Cade Webber",
-    "team": "Toronto",
-    "from": "Cleared",
-    "to": "IR. Expected to be out until at least Oct 31"
-  },
-  {
-    "ts": "2026-10-18T04:51:48+00:00",
-    "player": "Jack Thompson",
-    "team": "Vancouver",
-    "from": "Cleared",
-    "to": "IR. Expected to be out until at least Oct 31"
-  },
-  {
-    "ts": "2026-10-18T04:51:48+00:00",
-    "player": "MacKenzie MacEachern",
-    "team": "Vancouver",
-    "from": "Cleared",
-    "to": "IR. Expected to be out until at least Oct 25"
   }
 ]
