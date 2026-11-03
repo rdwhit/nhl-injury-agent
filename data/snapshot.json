@@ -5,7 +5,7 @@
     "injury": "Upper Body",
     "status": "IR. Expected to be out until at least Nov 11",
     "comment": "LW Upper Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Drew Helleson": {
     "team": "Anaheim",
@@ -21,7 +21,7 @@
     "injury": "Lower Body",
     "status": "IR. Expected to be out until at least Nov 8",
     "comment": "D Lower Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Troy Terry": {
     "team": "Anaheim",
@@ -29,7 +29,7 @@
     "injury": "Hip",
     "status": "IR. Expected to be out until at least Nov 6",
     "comment": "RW Hip",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Matthew Poitras": {
     "team": "Boston",
@@ -53,7 +53,7 @@
     "injury": "Upper Body",
     "status": "IR. Expected to be out until at least Nov 22",
     "comment": "G Upper Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Jiri Kulich": {
     "team": "Buffalo",
@@ -93,7 +93,7 @@
     "injury": "Hip",
     "status": "IR. Expected to be out until at least Nov 28",
     "comment": "C Hip",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Jake Bean": {
     "team": "Calgary",
@@ -117,7 +117,7 @@
     "injury": "Not Injury Related",
     "status": "Expected to be out until at least Nov 7",
     "comment": "D Not Injury Related",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Connor Bedard": {
     "team": "Chicago",
@@ -141,7 +141,7 @@
     "injury": "Shoulder",
     "status": "IR. Expected to be out until at least Mar 30",
     "comment": "G Shoulder",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Isac Lundestrom": {
     "team": "Columbus",
@@ -149,7 +149,7 @@
     "injury": "Achilles",
     "status": "IR. Expected to be out until at least Dec 3",
     "comment": "C Achilles",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Dante Fabbro": {
     "team": "Columbus",
@@ -181,7 +181,7 @@
     "injury": "Abdomen",
     "status": "IR. Expected to be out until at least Jan 12",
     "comment": "C Abdomen",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Colin Blackwell": {
     "team": "Dallas",
@@ -197,7 +197,7 @@
     "injury": "Suspension",
     "status": "Expected to be out until at least Nov 14",
     "comment": "C Suspension",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Mattias Janmark": {
     "team": "Edmonton",
@@ -205,7 +205,7 @@
     "injury": "Undisclosed",
     "status": "IR. Expected to be out until at least Nov 28",
     "comment": "C Undisclosed",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Frederik Andersen": {
     "team": "Edmonton",
@@ -213,7 +213,7 @@
     "injury": "Knee",
     "status": "IR. Expected to be out until at least Dec 30",
     "comment": "G Knee",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Matthew Savoie": {
     "team": "Edmonton",
@@ -221,7 +221,7 @@
     "injury": "Lower Body",
     "status": "IR. Expected to be out until at least Nov 24",
     "comment": "C Lower Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Brady Tkachuk": {
     "team": "Florida",
@@ -234,10 +234,10 @@
   "Brad Marchand": {
     "team": "Florida",
     "position": "LW",
-    "injury": "Leg",
+    "injury": "Knee",
     "status": "IR. Expected to be out until at least Nov 21",
-    "comment": "LW Leg",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "comment": "LW Knee",
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Jonah Gadjovich": {
     "team": "Florida",
@@ -245,7 +245,7 @@
     "injury": "Upper Body",
     "status": "IR. Expected to be out until at least Nov 28",
     "comment": "LW Upper Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Corey Perry": {
     "team": "Los Angeles",
@@ -261,7 +261,7 @@
     "injury": "Upper Body",
     "status": "IR. Expected to be out until at least Nov 10",
     "comment": "RW Upper Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Kevin Fiala": {
     "team": "Los Angeles",
@@ -269,7 +269,7 @@
     "injury": "Lower Leg",
     "status": "IR. Expected to be out until at least Nov 7",
     "comment": "LW Lower Leg",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Filip Gustavsson": {
     "team": "Minnesota",
@@ -277,7 +277,7 @@
     "injury": "Hip",
     "status": "IR. Expected to be out until at least Nov 19",
     "comment": "G Hip",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Ivan Demidov": {
     "team": "Montreal",
@@ -285,7 +285,7 @@
     "injury": "Lower Body",
     "status": "IR. Expected to be out until at least Nov 7",
     "comment": "RW Lower Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Kaiden Guhle": {
     "team": "Montreal",
@@ -301,7 +301,7 @@
     "injury": "Knee",
     "status": "IR. Expected to be out until at least Nov 21",
     "comment": "D Knee",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Nick Bjugstad": {
     "team": "Winnipeg",
@@ -309,7 +309,7 @@
     "injury": "Pectoral",
     "status": "IR. Expected to be out until at least Mar 11",
     "comment": "C Pectoral",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Johnathan Kovacevic": {
     "team": "New Jersey",
@@ -325,7 +325,7 @@
     "injury": "Knee",
     "status": "IR. Expected to be out until at least Nov 7",
     "comment": "C Knee",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Vincent Iorio": {
     "team": "N.Y. Rangers",
@@ -341,7 +341,7 @@
     "injury": "Lower Body",
     "status": "IR. Expected to be out until at least Jan 25",
     "comment": "LW Lower Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Shane Pinto": {
     "team": "Ottawa",
@@ -389,7 +389,7 @@
     "injury": "Knee",
     "status": "IR. Expected to be out until at least Nov 25",
     "comment": "LW Knee",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Ridly Greig": {
     "team": "Ottawa",
@@ -461,7 +461,7 @@
     "injury": "Knee",
     "status": "IR. Expected to be out until at least Nov 12",
     "comment": "D Knee",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Torey Krug": {
     "team": "St. Louis",
@@ -469,7 +469,7 @@
     "injury": "Ankle",
     "status": "IR. Expected to be out until at least Jul 1",
     "comment": "D Ankle",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Yanni Gourde": {
     "team": "Tampa Bay",
@@ -477,7 +477,7 @@
     "injury": "Hip",
     "status": "IR. Expected to be out until at least Dec 2",
     "comment": "C Hip",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Dominic James": {
     "team": "Tampa Bay",
@@ -509,7 +509,7 @@
     "injury": "Back",
     "status": "IR. Expected to be out until at least Jan 30",
     "comment": "C Back",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Michael Carcone": {
     "team": "Utah",
@@ -525,7 +525,7 @@
     "injury": "Upper Body",
     "status": "IR. Expected to be out until at least Nov 7",
     "comment": "C Upper Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Thatcher Demko": {
     "team": "Vancouver",
@@ -533,7 +533,7 @@
     "injury": "Hip",
     "status": "IR. Expected to be out until at least Dec 21",
     "comment": "G Hip",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Derek Forbort": {
     "team": "Vancouver",
@@ -549,7 +549,7 @@
     "injury": "Hip",
     "status": "IR. Expected to be out until at least Jul 1",
     "comment": "D Hip",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Alex Ovechkin": {
     "team": "Washington",
@@ -565,7 +565,7 @@
     "injury": "Knee",
     "status": "IR. Expected to be out until at least Dec 26",
     "comment": "D Knee",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Jacob Bernard-Docker": {
     "team": "Detroit",
@@ -589,7 +589,7 @@
     "injury": "Skull",
     "status": "IR. Expected to be out until at least Nov 3",
     "comment": "D Skull",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Ryan Graves": {
     "team": "Pittsburgh",
@@ -597,7 +597,7 @@
     "injury": "Knee",
     "status": "IR. Expected to be out until at least Nov 28",
     "comment": "D Knee",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Pavel Mintyukov": {
     "team": "Anaheim",
@@ -629,7 +629,7 @@
     "injury": "Lower Body",
     "status": "IR. Expected to be out until at least Dec 5",
     "comment": "RW Lower Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Logan Mailloux": {
     "team": "St. Louis",
@@ -637,7 +637,7 @@
     "injury": "Hand",
     "status": "IR. Expected to be out until at least Nov 25",
     "comment": "D Hand",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Mackie Samoskevich": {
     "team": "Seattle",
@@ -651,9 +651,9 @@
     "team": "Colorado",
     "position": "RW",
     "injury": "Personal",
-    "status": "Day-to-Day",
+    "status": "Cleared",
     "comment": "RW Personal",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Zachary L'Heureux": {
     "team": "Colorado",
@@ -661,7 +661,7 @@
     "injury": "Upper Body",
     "status": "IR. Expected to be out until at least Nov 7",
     "comment": "LW Upper Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Simon Edvinsson": {
     "team": "Detroit",
@@ -677,7 +677,7 @@
     "injury": "Lower Body",
     "status": "IR. Expected to be out until at least Nov 6",
     "comment": "D Lower Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Conor Sheary": {
     "team": "Buffalo",
@@ -701,7 +701,7 @@
     "injury": "Lower Body",
     "status": "IR. Expected to be out until at least Nov 27",
     "comment": "LW Lower Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Jack Rathbone": {
     "team": "Buffalo",
@@ -805,7 +805,7 @@
     "injury": "Undisclosed",
     "status": "IR. Expected to be out until at least Nov 21",
     "comment": "D Undisclosed",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "MacKenzie Entwistle": {
     "team": "Florida",
@@ -853,7 +853,7 @@
     "injury": "Back",
     "status": "IR. Expected to be out until at least Feb 13",
     "comment": "RW Back",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Helge Grans": {
     "team": "Philadelphia",
@@ -949,7 +949,7 @@
     "injury": "Lower Body",
     "status": "IR. Expected to be out until at least Nov 17",
     "comment": "RW Lower Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Cade Webber": {
     "team": "Toronto",
@@ -965,7 +965,7 @@
     "injury": "Shoulder",
     "status": "IR. Expected to be out until at least Feb 12",
     "comment": "D Shoulder",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "MacKenzie MacEachern": {
     "team": "Vancouver",
@@ -1029,7 +1029,7 @@
     "injury": "Undisclosed",
     "status": "IR. Expected to be out until at least Nov 9",
     "comment": "C Undisclosed",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Andrew Mangiapane": {
     "team": "Chicago",
@@ -1077,7 +1077,7 @@
     "injury": "Foot",
     "status": "IR. Expected to be out until at least Nov 9",
     "comment": "G Foot",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Zach Hyman": {
     "team": "Edmonton",
@@ -1085,7 +1085,7 @@
     "injury": "Neck",
     "status": "IR. Expected to be out until at least Nov 3",
     "comment": "LW Neck",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Gustav Forsling": {
     "team": "Florida",
@@ -1106,10 +1106,10 @@
   "Aleksander Barkov": {
     "team": "Florida",
     "position": "C",
-    "injury": "Lower Body",
+    "injury": "Knee",
     "status": "IR. Expected to be out until at least Nov 27",
-    "comment": "C Lower Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "comment": "C Knee",
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Connor Hellebuyck": {
     "team": "New Jersey",
@@ -1133,7 +1133,7 @@
     "injury": "Upper Body",
     "status": "Expected to be out until at least Nov 4",
     "comment": "D Upper Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Marco Kasper": {
     "team": "Detroit",
@@ -1141,7 +1141,7 @@
     "injury": "Upper Body",
     "status": "IR. Expected to be out until at least Nov 14",
     "comment": "C Upper Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Jacob Trouba": {
     "team": "San Jose",
@@ -1157,7 +1157,7 @@
     "injury": "Chest",
     "status": "IR. Expected to be out until at least Dec 1",
     "comment": "RW Chest",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Jake DeBrusk": {
     "team": "Vancouver",
@@ -1197,7 +1197,7 @@
     "injury": "Hand",
     "status": "IR. Expected to be out until at least Nov 11",
     "comment": "D Hand",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Emil Martinsen Lilleberg": {
     "team": "Tampa Bay",
@@ -1229,7 +1229,7 @@
     "injury": "Lower Body",
     "status": "IR. Expected to be out until at least Jan 3",
     "comment": "C Lower Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Danila Yurov": {
     "team": "Minnesota",
@@ -1245,7 +1245,7 @@
     "injury": "Lower Body",
     "status": "IR. Expected to be out until at least Nov 14",
     "comment": "C Lower Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Linus Ullmark": {
     "team": "Ottawa",
@@ -1253,7 +1253,7 @@
     "injury": "Lower Body",
     "status": "IR. Expected to be out until at least Nov 7",
     "comment": "G Lower Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Macklin Celebrini": {
     "team": "San Jose",
@@ -1269,7 +1269,7 @@
     "injury": "Undisclosed",
     "status": "IR. Expected to be out until at least Nov 10",
     "comment": "C Undisclosed",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "J.T. Compher": {
     "team": "Detroit",
@@ -1301,7 +1301,7 @@
     "injury": "Upper Body",
     "status": "IR. Expected to be out until at least Nov 3",
     "comment": "LW Upper Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Jonas Siegenthaler": {
     "team": "New Jersey",
@@ -1317,7 +1317,7 @@
     "injury": "Knee",
     "status": "IR. Expected to be out until at least Apr 8",
     "comment": "D Knee",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Ryan Lindgren": {
     "team": "Seattle",
@@ -1325,7 +1325,7 @@
     "injury": "Upper Body",
     "status": "IR. Expected to be out until at least Nov 19",
     "comment": "D Upper Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Mikhail Sergachev": {
     "team": "Utah",
@@ -1341,7 +1341,7 @@
     "injury": "Undisclosed",
     "status": "IR. Expected to be out until at least Nov 5",
     "comment": "LW Undisclosed",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Joel Kiviranta": {
     "team": "Dallas",
@@ -1357,7 +1357,7 @@
     "injury": "Lower Body",
     "status": "IR. Expected to be out until at least Nov 5",
     "comment": "G Lower Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Colton Dach": {
     "team": "Edmonton",
@@ -1373,7 +1373,7 @@
     "injury": "Wrist",
     "status": "IR. Expected to be out until at least Nov 8",
     "comment": "D Wrist",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Riley Bezeau": {
     "team": "Columbus",
@@ -1413,7 +1413,7 @@
     "injury": "Upper Body",
     "status": "IR. Expected to be out until at least Nov 21",
     "comment": "D Upper Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "B. Horvat": {
     "team": "N.Y. Islanders",
@@ -1429,7 +1429,7 @@
     "injury": "Ankle",
     "status": "IR. Expected to be out until at least Jan 5",
     "comment": "LW Ankle",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Oliver Ekman-Larsson": {
     "team": "Toronto",
@@ -1445,7 +1445,7 @@
     "injury": "Neck",
     "status": "IR. Expected to be out until at least Dec 4",
     "comment": "C Neck",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Alex Turcotte": {
     "team": "Los Angeles",
@@ -1453,7 +1453,7 @@
     "injury": "Undisclosed",
     "status": "IR. Expected to be out until at least Nov 4",
     "comment": "C Undisclosed",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Kiefer Sherwood": {
     "team": "San Jose",
@@ -1469,7 +1469,7 @@
     "injury": "Lower Body",
     "status": "IR. Expected to be out until at least Nov 27",
     "comment": "C Lower Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Frank Nazar": {
     "team": "Chicago",
@@ -1485,7 +1485,7 @@
     "injury": "Knee",
     "status": "IR. Expected to be out until at least Sep 15",
     "comment": "G Knee",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Samuel Honzek": {
     "team": "Calgary",
@@ -1493,7 +1493,7 @@
     "injury": "Lower Body",
     "status": "IR. Expected to be out until at least Nov 15",
     "comment": "LW Lower Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Florian Xhekaj": {
     "team": "Montreal",
@@ -1541,7 +1541,7 @@
     "injury": "Lower Body",
     "status": "IR. Expected to be out until at least Nov 3",
     "comment": "LW Lower Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Zach Bogosian": {
     "team": "Minnesota",
@@ -1557,7 +1557,7 @@
     "injury": "Lower Body",
     "status": "IR. Expected to be out until at least Nov 5",
     "comment": "D Lower Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Ryan Poehling": {
     "team": "Anaheim",
@@ -1565,7 +1565,7 @@
     "injury": "Lower Body",
     "status": "IR. Expected to be out until at least Nov 25",
     "comment": "C Lower Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Cutter Gauthier": {
     "team": "Anaheim",
@@ -1605,7 +1605,7 @@
     "injury": "Calf",
     "status": "IR. Expected to be out until at least Dec 3",
     "comment": "C Calf",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Rasmus Dahlin": {
     "team": "Buffalo",
@@ -1653,7 +1653,7 @@
     "injury": "Upper Body",
     "status": "IR. Expected to be out until at least Nov 8",
     "comment": "D Upper Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Matt Grzelcyk": {
     "team": "Buffalo",
@@ -1661,7 +1661,7 @@
     "injury": "Lower Body",
     "status": "IR. Expected to be out until at least Nov 8",
     "comment": "D Lower Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Conor Garland": {
     "team": "Columbus",
@@ -1677,7 +1677,7 @@
     "injury": "Lower Body",
     "status": "Expected to be out until at least Nov 14",
     "comment": "D Lower Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Dennis Hildeby": {
     "team": "Tampa Bay",
@@ -1709,7 +1709,7 @@
     "injury": "Upper Body",
     "status": "Day-to-Day",
     "comment": "LW Upper Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Roope Hintz": {
     "team": "Dallas",
@@ -1733,7 +1733,7 @@
     "injury": "Lower Body",
     "status": "IR. Expected to be out until at least Nov 6",
     "comment": "D Lower Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Darnell Nurse": {
     "team": "San Jose",
@@ -1757,7 +1757,7 @@
     "injury": "Finger",
     "status": "IR. Expected to be out until at least Nov 14",
     "comment": "C Finger",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Mikael Granlund": {
     "team": "Anaheim",
@@ -1781,7 +1781,7 @@
     "injury": "Undisclosed",
     "status": "IR. Expected to be out until at least Nov 3",
     "comment": "C Undisclosed",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Josh Norris": {
     "team": "Buffalo",
@@ -1813,7 +1813,7 @@
     "injury": "Undisclosed",
     "status": "IR. Expected to be out until at least Nov 7",
     "comment": "LW Undisclosed",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Justin Sourdif": {
     "team": "Washington",
@@ -1853,7 +1853,7 @@
     "injury": "Lower Body",
     "status": "IR. Expected to be out until at least Nov 7",
     "comment": "LW Lower Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Marco Rossi": {
     "team": "Vancouver",
@@ -1877,7 +1877,7 @@
     "injury": "Lower Body",
     "status": "IR. Expected to be out until at least Nov 17",
     "comment": "LW Lower Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Calum Ritchie": {
     "team": "N.Y. Islanders",
@@ -1885,7 +1885,7 @@
     "injury": "Lower Body",
     "status": "IR. Expected to be out until at least Dec 1",
     "comment": "C Lower Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Thomas Chabot": {
     "team": "Ottawa",
@@ -1933,7 +1933,7 @@
     "injury": "Upper Body",
     "status": "IR. Expected to be out until at least Nov 8",
     "comment": "RW Upper Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Anthony Mantha": {
     "team": "New Jersey",
@@ -1941,7 +1941,7 @@
     "injury": "Undisclosed",
     "status": "Day-to-Day",
     "comment": "RW Undisclosed",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "William Nylander": {
     "team": "Toronto",
@@ -1965,7 +1965,7 @@
     "injury": "Upper Body",
     "status": "IR. Expected to be out until at least Nov 9",
     "comment": "C Upper Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "John Marino": {
     "team": "Utah",
@@ -1973,7 +1973,7 @@
     "injury": "Upper Body",
     "status": "IR. Expected to be out until at least Nov 5",
     "comment": "D Upper Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Sam Carrick": {
     "team": "Buffalo",
@@ -2029,7 +2029,7 @@
     "injury": "Upper Body",
     "status": "Expected to be out until at least Nov 18",
     "comment": "C Upper Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Marshall Rifai": {
     "team": "Toronto",
@@ -2037,7 +2037,7 @@
     "injury": "Lower Body",
     "status": "IR. Expected to be out until at least Nov 8",
     "comment": "D Lower Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Daniil Tarasov": {
     "team": "Detroit",
@@ -2093,7 +2093,7 @@
     "injury": "Upper Body",
     "status": "IR. Expected to be out until at least Nov 14",
     "comment": "LW Upper Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Nick Blankenburg": {
     "team": "Toronto",
@@ -2101,7 +2101,7 @@
     "injury": "Upper Body",
     "status": "IR. Expected to be out until at least Nov 12",
     "comment": "D Upper Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Mitchell Marner": {
     "team": "Vegas",
@@ -2125,7 +2125,7 @@
     "injury": "Lower Body",
     "status": "Day-to-Day",
     "comment": "C Lower Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Vincent Desharnais": {
     "team": "Washington",
@@ -2133,7 +2133,7 @@
     "injury": "Abdomen",
     "status": "IR. Expected to be out until at least Dec 5",
     "comment": "D Abdomen",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Devon Levi": {
     "team": "Edmonton",
@@ -2141,7 +2141,7 @@
     "injury": "Undisclosed",
     "status": "IR. Expected to be out until at least Nov 9",
     "comment": "G Undisclosed",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Eeli Tolvanen": {
     "team": "N.Y. Rangers",
@@ -2173,7 +2173,7 @@
     "injury": "Lower Body",
     "status": "IR. Expected to be out until at least Jan 2",
     "comment": "LW Lower Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Zemgus Girgensons": {
     "team": "Tampa Bay",
@@ -2181,15 +2181,15 @@
     "injury": "Lower Body",
     "status": "Expected to be out until at least Nov 5",
     "comment": "C Lower Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Albert Johansson": {
     "team": "Detroit",
     "position": "D",
     "injury": "Undisclosed",
-    "status": "Day-to-Day",
+    "status": "Expected to be out until at least Nov 5",
     "comment": "D Undisclosed",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "James Reimer": {
     "team": "N.Y. Rangers",
@@ -2205,7 +2205,7 @@
     "injury": "Upper Body",
     "status": "IR. Expected to be out until at least Nov 14",
     "comment": "LW Upper Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Carter Hart": {
     "team": "Vegas",
@@ -2229,7 +2229,7 @@
     "injury": "Leg",
     "status": "IR. Expected to be out until at least Nov 27",
     "comment": "D Leg",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Brandon Hagel": {
     "team": "Tampa Bay",
@@ -2243,9 +2243,9 @@
     "team": "Calgary",
     "position": "LW",
     "injury": "Upper Body",
-    "status": "Day-to-Day",
+    "status": "Expected to be out until at least Nov 4",
     "comment": "LW Upper Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Devin Cooley": {
     "team": "Calgary",
@@ -2253,7 +2253,7 @@
     "injury": "Lower Body",
     "status": "IR. Expected to be out until at least Nov 14",
     "comment": "G Lower Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Josh Manson": {
     "team": "Colorado",
@@ -2261,7 +2261,7 @@
     "injury": "Ankle",
     "status": "Expected to be out until at least Dec 27",
     "comment": "D Ankle",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Alex Vlasic": {
     "team": "Chicago",
@@ -2277,7 +2277,7 @@
     "injury": "Upper Body",
     "status": "Expected to be out until at least Nov 17",
     "comment": "C Upper Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Brandt Clarke": {
     "team": "Los Angeles",
@@ -2293,7 +2293,7 @@
     "injury": "Upper Body",
     "status": "Expected to be out until at least Nov 28",
     "comment": "D Upper Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Joel Eriksson Ek": {
     "team": "Minnesota",
@@ -2309,7 +2309,7 @@
     "injury": "Upper Body",
     "status": "Day-to-Day",
     "comment": "D Upper Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Hayden Hodgson": {
     "team": "Ottawa",
@@ -2325,7 +2325,7 @@
     "injury": "Undisclosed",
     "status": "Day-to-Day",
     "comment": "RW Undisclosed",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Sean Durzi": {
     "team": "N.Y. Rangers",
@@ -2333,7 +2333,7 @@
     "injury": "Undisclosed",
     "status": "Day-to-Day",
     "comment": "D Undisclosed",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Braden Schneider": {
     "team": "N.Y. Rangers",
@@ -2349,7 +2349,7 @@
     "injury": "Undisclosed",
     "status": "Day-to-Day",
     "comment": "D Undisclosed",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Isaac Howard": {
     "team": "Edmonton",
@@ -2357,7 +2357,7 @@
     "injury": "Knee",
     "status": "Day-to-Day",
     "comment": "LW Knee",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Kirby Dach": {
     "team": "Montreal",
@@ -2365,7 +2365,7 @@
     "injury": "Illness",
     "status": "Day-to-Day",
     "comment": "C Illness",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Kailer Yamamoto": {
     "team": "Utah",
@@ -2373,7 +2373,7 @@
     "injury": "Upper Body",
     "status": "Day-to-Day",
     "comment": "RW Upper Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Cole Koepke": {
     "team": "Winnipeg",
@@ -2389,7 +2389,7 @@
     "injury": "Undisclosed",
     "status": "Day-to-Day",
     "comment": "LW Undisclosed",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Evan Rodrigues": {
     "team": "New Jersey",
@@ -2397,7 +2397,7 @@
     "injury": "Illness",
     "status": "Day-to-Day",
     "comment": "C Illness",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Kaedan Korczak": {
     "team": "Pittsburgh",
@@ -2405,7 +2405,7 @@
     "injury": "Lower Body",
     "status": "Day-to-Day",
     "comment": "D Lower Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   },
   "Dawson Mercer": {
     "team": "Winnipeg",
@@ -2413,6 +2413,6 @@
     "injury": "Upper Body",
     "status": "Day-to-Day",
     "comment": "C Upper Body",
-    "updatedAt": "2026-11-02T19:39:10+00:00"
+    "updatedAt": "2026-11-03T02:58:38+00:00"
   }
 }

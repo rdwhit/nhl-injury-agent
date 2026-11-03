@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-11-03T02:58:38+00:00",
+    "player": "Brennan Othmann",
+    "team": "Calgary",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Nov 4"
+  },
+  {
+    "ts": "2026-11-03T02:58:38+00:00",
+    "player": "Albert Johansson",
+    "team": "Detroit",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Nov 5"
+  },
+  {
+    "ts": "2026-11-03T02:58:38+00:00",
+    "player": "Logan O'Connor",
+    "team": "Colorado",
+    "from": "Day-to-Day",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-11-02T19:39:10+00:00",
     "player": "A.J. Greer",
     "team": "Anaheim",
@@ -6976,27 +6997,6 @@
     "player": "Kai Uchacz",
     "team": "Vegas",
     "from": "IR. Expected to be out until at least Oct 24",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-18T11:29:09+00:00",
-    "player": "Lukas Cormier",
-    "team": "Vegas",
-    "from": "IR. Expected to be out until at least Oct 22",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-18T11:29:09+00:00",
-    "player": "Walker Duehr",
-    "team": "Winnipeg",
-    "from": "IR. Expected to be out until at least Oct 29",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-18T11:29:09+00:00",
-    "player": "Elias Salomonsson",
-    "team": "Winnipeg",
-    "from": "IR. Expected to be out until at least Oct 22",
     "to": "Cleared"
   }
 ]
