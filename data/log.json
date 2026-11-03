@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-11-03T11:09:14+00:00",
+    "player": "Matthew Poitras",
+    "team": "Boston",
+    "from": "Cleared",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-11-03T11:09:14+00:00",
+    "player": "Patrick Kane",
+    "team": "Chicago",
+    "from": "Available",
+    "to": "Expected to be out until at least Nov 12"
+  },
+  {
     "ts": "2026-11-03T02:58:38+00:00",
     "player": "Brennan Othmann",
     "team": "Calgary",
@@ -6983,20 +6997,6 @@
     "player": "MacKenzie MacEachern",
     "team": "Vancouver",
     "from": "IR. Expected to be out until at least Oct 25",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-18T11:29:09+00:00",
-    "player": "Jack Thompson",
-    "team": "Vancouver",
-    "from": "IR. Expected to be out until at least Oct 31",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-18T11:29:09+00:00",
-    "player": "Kai Uchacz",
-    "team": "Vegas",
-    "from": "IR. Expected to be out until at least Oct 24",
     "to": "Cleared"
   }
 ]
