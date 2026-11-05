@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-11-05T11:17:24+00:00",
+    "player": "Ridly Greig",
+    "team": "Ottawa",
+    "from": "Cleared",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-11-05T11:17:24+00:00",
+    "player": "Curtis Douglas",
+    "team": "Seattle",
+    "from": "Day-to-Day",
+    "to": "IR. Expected to be out until at least Nov 12"
+  },
+  {
+    "ts": "2026-11-05T11:17:24+00:00",
+    "player": "Adrian Kempe",
+    "team": "Los Angeles",
+    "from": "Day-to-Day",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-11-05T01:33:53+00:00",
     "player": "Brennan Othmann",
     "team": "Calgary",
@@ -6977,26 +6998,5 @@
     "team": "Minnesota",
     "from": "IR. Expected to be out until at least Oct 20",
     "to": "IR. Expected to be out until at least Oct 24"
-  },
-  {
-    "ts": "2026-10-19T05:00:18+00:00",
-    "player": "Ross Johnston",
-    "team": "St. Louis",
-    "from": "Day-to-Day",
-    "to": "IR. Expected to be out until at least Oct 24"
-  },
-  {
-    "ts": "2026-10-18T23:25:21+00:00",
-    "player": "Filip Gustavsson",
-    "team": "Minnesota",
-    "from": "IR. Expected to be out until at least Nov 14",
-    "to": "IR. Expected to be out until at least Nov 19"
-  },
-  {
-    "ts": "2026-10-18T23:25:21+00:00",
-    "player": "Jason Zucker",
-    "team": "Buffalo",
-    "from": "IR. Expected to be out until at least Oct 21",
-    "to": "Cleared"
   }
 ]
