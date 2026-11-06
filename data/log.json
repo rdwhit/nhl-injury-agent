@@ -1,5 +1,33 @@
 [
   {
+    "ts": "2026-11-06T11:15:05+00:00",
+    "player": "James Hagens",
+    "team": "Boston",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-11-06T11:15:05+00:00",
+    "player": "Jonathan Marchessault",
+    "team": "Nashville",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Nov 7"
+  },
+  {
+    "ts": "2026-11-06T11:15:05+00:00",
+    "player": "Nate Schmidt",
+    "team": "Utah",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-11-06T11:15:05+00:00",
+    "player": "Haydn Fleury",
+    "team": "Winnipeg",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
     "ts": "2026-11-06T01:41:07+00:00",
     "player": "Matthew Poitras",
     "team": "Boston",
@@ -6970,33 +6998,5 @@
     "team": "Vegas",
     "from": "IR. Expected to be out until at least Oct 22",
     "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-20T05:07:44+00:00",
-    "player": "Mikael Backlund",
-    "team": "Calgary",
-    "from": "Available",
-    "to": "Day-to-Day"
-  },
-  {
-    "ts": "2026-10-20T05:07:44+00:00",
-    "player": "Samuel Honzek",
-    "team": "Calgary",
-    "from": "Day-to-Day",
-    "to": "IR. Expected to be out until at least Oct 28"
-  },
-  {
-    "ts": "2026-10-20T05:07:44+00:00",
-    "player": "Samuel Girard",
-    "team": "Pittsburgh",
-    "from": "Day-to-Day",
-    "to": "Expected to be out until at least Oct 22"
-  },
-  {
-    "ts": "2026-10-20T05:07:44+00:00",
-    "player": "Bryan Rust",
-    "team": "Pittsburgh",
-    "from": "Cleared",
-    "to": "Expected to be out until at least Oct 22"
   }
 ]
