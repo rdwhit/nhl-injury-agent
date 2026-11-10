@@ -1,5 +1,12 @@
 [
   {
+    "ts": "2026-11-10T07:34:30+00:00",
+    "player": "Josh Manson",
+    "team": "Colorado",
+    "from": "Expected to be out until at least Dec 27",
+    "to": "IR. Expected to be out until at least Dec 27"
+  },
+  {
     "ts": "2026-11-09T22:35:22+00:00",
     "player": "Brennan Othmann",
     "team": "Calgary",
@@ -6988,13 +6995,6 @@
   {
     "ts": "2026-10-23T05:07:26+00:00",
     "player": "Kyle Keyser",
-    "team": "San Jose",
-    "from": "Cleared",
-    "to": "IR. Expected to be out until at least Dec 1"
-  },
-  {
-    "ts": "2026-10-23T05:07:26+00:00",
-    "player": "Quentin Musty",
     "team": "San Jose",
     "from": "Cleared",
     "to": "IR. Expected to be out until at least Dec 1"
