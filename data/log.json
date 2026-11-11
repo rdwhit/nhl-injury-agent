@@ -1,5 +1,40 @@
 [
   {
+    "ts": "2026-11-11T06:52:45+00:00",
+    "player": "Jonathan Huberdeau",
+    "team": "Calgary",
+    "from": "IR. Expected to be out until at least Nov 21",
+    "to": "IR. Expected to be out until at least Nov 15"
+  },
+  {
+    "ts": "2026-11-11T06:52:45+00:00",
+    "player": "Jonathan Marchessault",
+    "team": "Nashville",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Nov 11"
+  },
+  {
+    "ts": "2026-11-11T06:52:45+00:00",
+    "player": "Johnathan Kovacevic",
+    "team": "New Jersey",
+    "from": "Cleared",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-11-11T06:52:45+00:00",
+    "player": "Nick Cousins",
+    "team": "Ottawa",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-11-11T06:52:45+00:00",
+    "player": "Jake Evans",
+    "team": "Montreal",
+    "from": "Day-to-Day",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-11-10T23:36:35+00:00",
     "player": "A.J. Greer",
     "team": "Anaheim",
@@ -6963,40 +6998,5 @@
     "team": "Calgary",
     "from": "Expected to be out until at least Oct 24",
     "to": "Day-to-Day"
-  },
-  {
-    "ts": "2026-10-23T17:19:55+00:00",
-    "player": "Mark Jankowski",
-    "team": "Carolina",
-    "from": "Expected to be out until at least Oct 27",
-    "to": "Day-to-Day"
-  },
-  {
-    "ts": "2026-10-23T17:19:55+00:00",
-    "player": "Alexander Nikishin",
-    "team": "Carolina",
-    "from": "Cleared",
-    "to": "IR. Expected to be out until at least Nov 1"
-  },
-  {
-    "ts": "2026-10-23T17:19:55+00:00",
-    "player": "Ryan Ellis",
-    "team": "Chicago",
-    "from": "Cleared",
-    "to": "IR. Expected to be out until at least Jul 1"
-  },
-  {
-    "ts": "2026-10-23T17:19:55+00:00",
-    "player": "Daniil Tarasov",
-    "team": "Detroit",
-    "from": "Expected to be out until at least Oct 24",
-    "to": "Day-to-Day"
-  },
-  {
-    "ts": "2026-10-23T17:19:55+00:00",
-    "player": "Simon Edvinsson",
-    "team": "Detroit",
-    "from": "Cleared",
-    "to": "IR. Expected to be out until at least Oct 31"
   }
 ]
