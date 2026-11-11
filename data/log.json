@@ -1,5 +1,75 @@
 [
   {
+    "ts": "2026-11-11T17:18:49+00:00",
+    "player": "Louis Crevier",
+    "team": "Buffalo",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-11-11T17:18:49+00:00",
+    "player": "Sandis Vilmanis",
+    "team": "Florida",
+    "from": "Expected to be out until at least Nov 12",
+    "to": "Expected to be out until at least Nov 14"
+  },
+  {
+    "ts": "2026-11-11T17:18:49+00:00",
+    "player": "Erik Gustafsson",
+    "team": "Los Angeles",
+    "from": "Expected to be out until at least Nov 12",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-11-11T17:18:49+00:00",
+    "player": "Mike Matheson",
+    "team": "Montreal",
+    "from": "Expected to be out until at least Nov 14",
+    "to": "Expected to be out until at least Nov 16"
+  },
+  {
+    "ts": "2026-11-11T17:18:49+00:00",
+    "player": "Jonathan Marchessault",
+    "team": "Nashville",
+    "from": "Expected to be out until at least Nov 11",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-11-11T17:18:49+00:00",
+    "player": "Anthony Mantha",
+    "team": "New Jersey",
+    "from": "Expected to be out until at least Nov 12",
+    "to": "Expected to be out until at least Nov 14"
+  },
+  {
+    "ts": "2026-11-11T17:18:49+00:00",
+    "player": "Linus Ullmark",
+    "team": "Ottawa",
+    "from": "Expected to be out until at least Nov 12",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-11-11T17:18:49+00:00",
+    "player": "Rasmus Ristolainen",
+    "team": "Philadelphia",
+    "from": "IR. Expected to be out until at least Nov 11",
+    "to": "IR. Expected to be out until at least Nov 15"
+  },
+  {
+    "ts": "2026-11-11T17:18:49+00:00",
+    "player": "Zack MacEwen",
+    "team": "Toronto",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-11-11T17:18:49+00:00",
+    "player": "Morgan Rielly",
+    "team": "Toronto",
+    "from": "Expected to be out until at least Nov 12",
+    "to": "Day-to-Day"
+  },
+  {
     "ts": "2026-11-11T06:52:45+00:00",
     "player": "Jonathan Huberdeau",
     "team": "Calgary",
@@ -6928,75 +6998,5 @@
     "team": "New Jersey",
     "from": "IR. Expected to be out until at least Jan 19",
     "to": "IR. Expected to be out until at least Mar 11"
-  },
-  {
-    "ts": "2026-10-23T21:33:12+00:00",
-    "player": "Eeli Tolvanen",
-    "team": "N.Y. Rangers",
-    "from": "Available",
-    "to": "Day-to-Day"
-  },
-  {
-    "ts": "2026-10-23T21:33:12+00:00",
-    "player": "Vincent Desharnais",
-    "team": "Washington",
-    "from": "Expected to be out until at least Dec 5",
-    "to": "IR. Expected to be out until at least Dec 5"
-  },
-  {
-    "ts": "2026-10-23T21:33:12+00:00",
-    "player": "Vladislav Namestnikov",
-    "team": "Winnipeg",
-    "from": "Expected to be out until at least Oct 30",
-    "to": "IR. Expected to be out until at least Oct 30"
-  },
-  {
-    "ts": "2026-10-23T21:33:12+00:00",
-    "player": "Mike Matheson",
-    "team": "Montreal",
-    "from": "Day-to-Day",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-23T21:33:12+00:00",
-    "player": "Anthony Cirelli",
-    "team": "Tampa Bay",
-    "from": "Day-to-Day",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-10-23T17:19:55+00:00",
-    "player": "Jeff Malott",
-    "team": "Anaheim",
-    "from": "Expected to be out until at least Oct 24",
-    "to": "Day-to-Day"
-  },
-  {
-    "ts": "2026-10-23T17:19:55+00:00",
-    "player": "Pavel Mintyukov",
-    "team": "Anaheim",
-    "from": "Expected to be out until at least Oct 27",
-    "to": "Day-to-Day"
-  },
-  {
-    "ts": "2026-10-23T17:19:55+00:00",
-    "player": "Judd Caulfield",
-    "team": "Anaheim",
-    "from": "Cleared",
-    "to": "IR. Expected to be out until at least Oct 24"
-  },
-  {
-    "ts": "2026-10-23T17:19:55+00:00",
-    "player": "Jack Rathbone",
-    "team": "Buffalo",
-    "from": "Cleared",
-    "to": "IR. Expected to be out until at least Oct 24"
-  },
-  {
-    "ts": "2026-10-23T17:19:55+00:00",
-    "player": "Mikael Backlund",
-    "team": "Calgary",
-    "from": "Expected to be out until at least Oct 24",
-    "to": "Day-to-Day"
   }
 ]
