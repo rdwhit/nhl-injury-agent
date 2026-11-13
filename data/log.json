@@ -1,5 +1,54 @@
 [
   {
+    "ts": "2026-11-13T11:20:08+00:00",
+    "player": "Cale Makar",
+    "team": "Colorado",
+    "from": "Cleared",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-11-13T11:20:08+00:00",
+    "player": "Nathan MacKinnon",
+    "team": "Colorado",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-11-13T11:20:08+00:00",
+    "player": "Lian Bichsel",
+    "team": "Dallas",
+    "from": "Available",
+    "to": "Expected to be out until at least Nov 17"
+  },
+  {
+    "ts": "2026-11-13T11:20:08+00:00",
+    "player": "Joel Eriksson Ek",
+    "team": "Minnesota",
+    "from": "Cleared",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-11-13T11:20:08+00:00",
+    "player": "Chris Kreider",
+    "team": "Montreal",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-11-13T11:20:08+00:00",
+    "player": "Nick Schmaltz",
+    "team": "Utah",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Nov 14"
+  },
+  {
+    "ts": "2026-11-13T11:20:08+00:00",
+    "player": "Dylan DeMelo",
+    "team": "Winnipeg",
+    "from": "Available",
+    "to": "Expected to be out until at least Nov 19"
+  },
+  {
     "ts": "2026-11-13T01:59:28+00:00",
     "player": "Konsta Helenius",
     "team": "Buffalo",
@@ -6949,54 +6998,5 @@
     "team": "Calgary",
     "from": "Day-to-Day",
     "to": "Expected to be out until at least Oct 26"
-  },
-  {
-    "ts": "2026-10-24T21:01:21+00:00",
-    "player": "Bowen Byram",
-    "team": "Chicago",
-    "from": "Day-to-Day",
-    "to": "Expected to be out until at least Oct 27"
-  },
-  {
-    "ts": "2026-10-24T21:01:21+00:00",
-    "player": "Nicolas Roy",
-    "team": "Colorado",
-    "from": "Day-to-Day",
-    "to": "Expected to be out until at least Oct 28"
-  },
-  {
-    "ts": "2026-10-24T21:01:21+00:00",
-    "player": "Sam Steel",
-    "team": "Dallas",
-    "from": "Available",
-    "to": "Expected to be out until at least Oct 27"
-  },
-  {
-    "ts": "2026-10-24T21:01:21+00:00",
-    "player": "Esa Lindell",
-    "team": "Dallas",
-    "from": "Expected to be out until at least Oct 27",
-    "to": "IR. Expected to be out until at least Oct 27"
-  },
-  {
-    "ts": "2026-10-24T21:01:21+00:00",
-    "player": "Devon Levi",
-    "team": "Edmonton",
-    "from": "IR. Expected to be out until at least Oct 31",
-    "to": "IR. Expected to be out until at least Nov 9"
-  },
-  {
-    "ts": "2026-10-24T21:01:21+00:00",
-    "player": "Quinton Byfield",
-    "team": "Los Angeles",
-    "from": "Day-to-Day",
-    "to": "Expected to be out until at least Oct 26"
-  },
-  {
-    "ts": "2026-10-24T21:01:21+00:00",
-    "player": "Connor Hellebuyck",
-    "team": "New Jersey",
-    "from": "Day-to-Day",
-    "to": "Expected to be out until at least Oct 27"
   }
 ]
