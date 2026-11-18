@@ -1,5 +1,40 @@
 [
   {
+    "ts": "2026-11-18T11:59:53+00:00",
+    "player": "Beckett Sennecke",
+    "team": "Anaheim",
+    "from": "Available",
+    "to": "Expected to be out until at least Nov 19"
+  },
+  {
+    "ts": "2026-11-18T11:59:53+00:00",
+    "player": "Connor Bedard",
+    "team": "Chicago",
+    "from": "Cleared",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-11-18T11:59:53+00:00",
+    "player": "Filip Gustavsson",
+    "team": "Minnesota",
+    "from": "IR. Expected to be out until at least Nov 19",
+    "to": "IR. Expected to be out until at least Nov 23"
+  },
+  {
+    "ts": "2026-11-18T11:59:53+00:00",
+    "player": "Thomas Chabot",
+    "team": "Ottawa",
+    "from": "Cleared",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-11-18T11:59:53+00:00",
+    "player": "Zemgus Girgensons",
+    "team": "Tampa Bay",
+    "from": "Cleared",
+    "to": "Day-to-Day"
+  },
+  {
     "ts": "2026-11-18T01:05:03+00:00",
     "player": "Jonathan Huberdeau",
     "team": "Calgary",
@@ -6963,40 +6998,5 @@
     "team": "Montreal",
     "from": "IR. Expected to be out until at least Oct 31",
     "to": "IR. Expected to be out until at least Nov 5"
-  },
-  {
-    "ts": "2026-10-31T19:24:51+00:00",
-    "player": "Lucas Condotta",
-    "team": "Montreal",
-    "from": "Cleared",
-    "to": "IR. Expected to be out until at least Nov 30"
-  },
-  {
-    "ts": "2026-10-31T19:24:51+00:00",
-    "player": "Bryce Pickford",
-    "team": "Montreal",
-    "from": "Cleared",
-    "to": "IR. Expected to be out until at least Nov 30"
-  },
-  {
-    "ts": "2026-10-31T19:24:51+00:00",
-    "player": "Mike Matheson",
-    "team": "Montreal",
-    "from": "Day-to-Day",
-    "to": "Expected to be out until at least Nov 14"
-  },
-  {
-    "ts": "2026-10-31T19:24:51+00:00",
-    "player": "Ivan Demidov",
-    "team": "Montreal",
-    "from": "IR. Expected to be out until at least Oct 31",
-    "to": "IR. Expected to be out until at least Nov 7"
-  },
-  {
-    "ts": "2026-10-31T19:24:51+00:00",
-    "player": "Ryan Pulock",
-    "team": "N.Y. Islanders",
-    "from": "Day-to-Day",
-    "to": "Expected to be out until at least Nov 5"
   }
 ]
