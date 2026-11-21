@@ -1,5 +1,12 @@
 [
   {
+    "ts": "2026-11-21T02:38:15+00:00",
+    "player": "Oliver Bjorkstrand",
+    "team": "N.Y. Rangers",
+    "from": "Day-to-Day",
+    "to": "IR. Expected to be out until at least Nov 25"
+  },
+  {
     "ts": "2026-11-20T20:36:15+00:00",
     "player": "Gavin Brindley",
     "team": "Colorado",
@@ -6991,12 +6998,5 @@
     "team": "San Jose",
     "from": "Cleared",
     "to": "IR. Expected to be out until at least Jul 1"
-  },
-  {
-    "ts": "2026-11-04T01:31:43+00:00",
-    "player": "Jake O'Brien",
-    "team": "Seattle",
-    "from": "Cleared",
-    "to": "IR. Expected to be out until at least Nov 12"
   }
 ]
