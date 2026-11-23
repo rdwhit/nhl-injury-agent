@@ -1,5 +1,47 @@
 [
   {
+    "ts": "2026-11-23T01:52:36+00:00",
+    "player": "Anton Frondell",
+    "team": "Chicago",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Nov 25"
+  },
+  {
+    "ts": "2026-11-23T01:52:36+00:00",
+    "player": "Zach Hyman",
+    "team": "Edmonton",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Nov 24"
+  },
+  {
+    "ts": "2026-11-23T01:52:36+00:00",
+    "player": "Declan Carlile",
+    "team": "Pittsburgh",
+    "from": "Available",
+    "to": "Expected to be out until at least Nov 25"
+  },
+  {
+    "ts": "2026-11-23T01:52:36+00:00",
+    "player": "Connor McMichael",
+    "team": "St. Louis",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Nov 25"
+  },
+  {
+    "ts": "2026-11-23T01:52:36+00:00",
+    "player": "Zemgus Girgensons",
+    "team": "Tampa Bay",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Nov 25"
+  },
+  {
+    "ts": "2026-11-23T01:52:36+00:00",
+    "player": "Wyatt Kaiser",
+    "team": "Chicago",
+    "from": "Expected to be out until at least Nov 29",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-11-22T19:53:20+00:00",
     "player": "Justin Danforth",
     "team": "Buffalo",
@@ -6956,47 +6998,5 @@
     "team": "Chicago",
     "from": "Cleared",
     "to": "IR. Expected to be out until at least Jul 1"
-  },
-  {
-    "ts": "2026-11-05T20:09:50+00:00",
-    "player": "Sam Steel",
-    "team": "Dallas",
-    "from": "Cleared",
-    "to": "Expected to be out until at least Nov 7"
-  },
-  {
-    "ts": "2026-11-05T20:09:50+00:00",
-    "player": "Miro Heiskanen",
-    "team": "Dallas",
-    "from": "Day-to-Day",
-    "to": "Expected to be out until at least Nov 7"
-  },
-  {
-    "ts": "2026-11-05T20:09:50+00:00",
-    "player": "Mason Appleton",
-    "team": "Detroit",
-    "from": "IR. Expected to be out until at least Nov 10",
-    "to": "IR. Expected to be out until at least Nov 7"
-  },
-  {
-    "ts": "2026-11-05T20:09:50+00:00",
-    "player": "John Gibson",
-    "team": "Detroit",
-    "from": "Day-to-Day",
-    "to": "Expected to be out until at least Nov 7"
-  },
-  {
-    "ts": "2026-11-05T20:09:50+00:00",
-    "player": "Marco Kasper",
-    "team": "Detroit",
-    "from": "IR. Expected to be out until at least Nov 14",
-    "to": "IR. Expected to be out until at least Nov 7"
-  },
-  {
-    "ts": "2026-11-05T20:09:50+00:00",
-    "player": "Albert Johansson",
-    "team": "Detroit",
-    "from": "IR. Expected to be out until at least Nov 10",
-    "to": "IR. Expected to be out until at least Nov 18"
   }
 ]
