@@ -1,5 +1,40 @@
 [
   {
+    "ts": "2026-11-24T14:03:21+00:00",
+    "player": "Leo Carlsson",
+    "team": "Anaheim",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Nov 25"
+  },
+  {
+    "ts": "2026-11-24T14:03:21+00:00",
+    "player": "Morgan Frost",
+    "team": "Calgary",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-11-24T14:03:21+00:00",
+    "player": "Connor Bedard",
+    "team": "Chicago",
+    "from": "IR. Expected to be out until at least Mar 1",
+    "to": "IR. Expected to be out until at least Mar 23"
+  },
+  {
+    "ts": "2026-11-24T14:03:21+00:00",
+    "player": "Mathieu Olivier",
+    "team": "Columbus",
+    "from": "Cleared",
+    "to": "Expected to be out until at least Nov 25"
+  },
+  {
+    "ts": "2026-11-24T14:03:21+00:00",
+    "player": "Kyle Palmieri",
+    "team": "N.Y. Islanders",
+    "from": "Available",
+    "to": "Expected to be out until at least Nov 25"
+  },
+  {
     "ts": "2026-11-24T02:26:13+00:00",
     "player": "Martin Pospisil",
     "team": "Calgary",
@@ -6963,40 +6998,5 @@
     "team": "Seattle",
     "from": "Cleared",
     "to": "IR. Expected to be out until at least Nov 12"
-  },
-  {
-    "ts": "2026-11-06T19:36:39+00:00",
-    "player": "Adam Jecho",
-    "team": "St. Louis",
-    "from": "Cleared",
-    "to": "IR. Expected to be out until at least Dec 6"
-  },
-  {
-    "ts": "2026-11-06T19:36:39+00:00",
-    "player": "William Villeneuve",
-    "team": "Toronto",
-    "from": "Cleared",
-    "to": "IR. Expected to be out until at least Dec 5"
-  },
-  {
-    "ts": "2026-11-06T19:36:39+00:00",
-    "player": "Cade Webber",
-    "team": "Toronto",
-    "from": "Cleared",
-    "to": "IR. Expected to be out until at least Nov 27"
-  },
-  {
-    "ts": "2026-11-06T19:36:39+00:00",
-    "player": "Kailer Yamamoto",
-    "team": "Utah",
-    "from": "Expected to be out until at least Nov 7",
-    "to": "Day-to-Day"
-  },
-  {
-    "ts": "2026-11-06T19:36:39+00:00",
-    "player": "Tom Willander",
-    "team": "Vancouver",
-    "from": "Expected to be out until at least Nov 7",
-    "to": "Day-to-Day"
   }
 ]
