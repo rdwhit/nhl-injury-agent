@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-11-25T08:56:00+00:00",
+    "player": "Filip Hallander",
+    "team": "Edmonton",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
+    "ts": "2026-11-25T08:56:00+00:00",
+    "player": "Marc Gatcomb",
+    "team": "Vegas",
+    "from": "Available",
+    "to": "Day-to-Day"
+  },
+  {
     "ts": "2026-11-24T23:59:04+00:00",
     "player": "Leo Carlsson",
     "team": "Anaheim",
@@ -6983,20 +6997,6 @@
     "player": "Jake O'Brien",
     "team": "Seattle",
     "from": "IR. Expected to be out until at least Nov 12",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-11-07T01:00:09+00:00",
-    "player": "Adam Jecho",
-    "team": "St. Louis",
-    "from": "IR. Expected to be out until at least Dec 6",
-    "to": "Cleared"
-  },
-  {
-    "ts": "2026-11-07T01:00:09+00:00",
-    "player": "William Villeneuve",
-    "team": "Toronto",
-    "from": "IR. Expected to be out until at least Dec 5",
     "to": "Cleared"
   }
 ]
