@@ -1,5 +1,40 @@
 [
   {
+    "ts": "2026-11-27T01:50:24+00:00",
+    "player": "Gavin Brindley",
+    "team": "Colorado",
+    "from": "Expected to be out until at least Dec 1",
+    "to": "IR. Expected to be out until at least Dec 8"
+  },
+  {
+    "ts": "2026-11-27T01:50:24+00:00",
+    "player": "Denton Mateychuk",
+    "team": "Columbus",
+    "from": "Day-to-Day",
+    "to": "Expected to be out until at least Nov 30"
+  },
+  {
+    "ts": "2026-11-27T01:50:24+00:00",
+    "player": "Gabe Perreault",
+    "team": "N.Y. Rangers",
+    "from": "Available",
+    "to": "IR. Expected to be out until at least Dec 31"
+  },
+  {
+    "ts": "2026-11-27T01:50:24+00:00",
+    "player": "Bryce Pickford",
+    "team": "Montreal",
+    "from": "IR. Expected to be out until at least Nov 30",
+    "to": "Cleared"
+  },
+  {
+    "ts": "2026-11-27T01:50:24+00:00",
+    "player": "Beckett Sennecke",
+    "team": "Anaheim",
+    "from": "IR. Expected to be out until at least Nov 27",
+    "to": "Cleared"
+  },
+  {
     "ts": "2026-11-26T17:09:55+00:00",
     "player": "Leo Carlsson",
     "team": "Anaheim",
@@ -6963,40 +6998,5 @@
     "team": "Chicago",
     "from": "IR. Expected to be out until at least Nov 7",
     "to": "IR. Expected to be out until at least Nov 14"
-  },
-  {
-    "ts": "2026-11-07T22:08:02+00:00",
-    "player": "Sandis Vilmanis",
-    "team": "Florida",
-    "from": "Available",
-    "to": "Expected to be out until at least Nov 12"
-  },
-  {
-    "ts": "2026-11-07T22:08:02+00:00",
-    "player": "Kevin Fiala",
-    "team": "Los Angeles",
-    "from": "IR. Expected to be out until at least Nov 7",
-    "to": "IR. Expected to be out until at least Nov 14"
-  },
-  {
-    "ts": "2026-11-07T22:08:02+00:00",
-    "player": "Josh Anderson",
-    "team": "Montreal",
-    "from": "Available",
-    "to": "Expected to be out until at least Nov 10"
-  },
-  {
-    "ts": "2026-11-07T22:08:02+00:00",
-    "player": "Sam Montembeault",
-    "team": "Montreal",
-    "from": "IR. Expected to be out until at least Nov 7",
-    "to": "IR. Expected to be out until at least Nov 10"
-  },
-  {
-    "ts": "2026-11-07T22:08:02+00:00",
-    "player": "Jonathan Marchessault",
-    "team": "Nashville",
-    "from": "Day-to-Day",
-    "to": "Expected to be out until at least Nov 10"
   }
 ]
